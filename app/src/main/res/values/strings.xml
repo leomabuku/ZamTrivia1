@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ZamTrivia</string>
+    <string name="main_menu_title">ZamTrivia</string>
+    <string name="main_menu_subtitle">Test your knowledge of Zambia</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="exit">Exit</string>
+    <string name="mode_selection_title">Choose Quiz Mode</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="random_quiz">Random Quiz</string>
+    <string name="back">Back</string>
+    <string name="leaderboard_title">Top 10 Leaderboard</string>
+    <string name="no_scores_yet">No scores yet</string>
+    <string name="enter_name_title">Enter Player Name</string>
+    <string name="continue_text">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_required">Please enter your name</string>
+    <string name="category_question_count">%1$d questions available</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="wrong_try_again">Wrong - second attempt</string>
+    <string name="time_up">Time Up</string>
+    <string name="question_number_format">Q%1$d</string>
+    <string name="retry_question_number_format">S%1$d/%2$d</string>
+    <string name="next_in_format">Next in %1$s</string>
+    <string name="score_label">Score:</string>
+    <string name="skip">Skip</string>
+    <string name="results_title">Results</string>
+    <string name="result_name_format">Name: %1$s</string>
+    <string name="result_score_format">Score: %1$s / 20</string>
+    <string name="result_percentage_format">Percentage: %1$s%%</string>
+    <string name="result_rank_format">Rank: #%1$d</string>
+    <string name="result_time_format">Time Used: %1$ds</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="retry_skipped_title">Retry skipped questions?</string>
+    <string name="retry_skipped_message">You skipped %1$d question(s). Do you want to attempt them before viewing results?</string>
+    <string name="retry_skipped_yes">Yes, attempt them</string>
+    <string name="retry_skipped_no">No, show results</string>
+    <string name="retry_round_status">Retrying skipped questions</string>
+
+    <string name="dark_mode">Dark Mode</string>
+</resources>

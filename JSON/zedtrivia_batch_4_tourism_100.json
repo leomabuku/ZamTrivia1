@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 301,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, approximately what share of Zambia's land area is reserved for wildlife?",
+    "optionA": "About 10%",
+    "optionB": "About 20%",
+    "optionC": "More than 30%",
+    "optionD": "About 50%",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 302,
+    "category": "Tourism",
+    "questionText": "How many national parks does Zambia Tourism list for Zambia?",
+    "optionA": "12",
+    "optionB": "16",
+    "optionC": "20",
+    "optionD": "24",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 303,
+    "category": "Tourism",
+    "questionText": "How many Game Management Areas does Zambia Tourism list for Zambia?",
+    "optionA": "24",
+    "optionB": "30",
+    "optionC": "34",
+    "optionD": "40",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 304,
+    "category": "Tourism",
+    "questionText": "Which three parks does Zambia Tourism rank among the finest national parks in the world?",
+    "optionA": "Kafue, South Luangwa, and Lower Zambezi",
+    "optionB": "Kasanka, Blue Lagoon, and Lochinvar",
+    "optionC": "Mosi-oa-Tunya, North Luangwa, and Nsumbu",
+    "optionD": "Sioma Ngwezi, Liuwa Plain, and Luambe",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 305,
+    "category": "Tourism",
+    "questionText": "Zambia Tourism describes Zambia as the land of the legendary what kind of safari?",
+    "optionA": "Desert safari",
+    "optionB": "Walking safari",
+    "optionC": "Night boat safari",
+    "optionD": "Camel safari",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 306,
+    "category": "Tourism",
+    "questionText": "Which river is featured in Zambia Tourism's home-page tagline as the 'wild' river of Zambia?",
+    "optionA": "Luangwa River",
+    "optionB": "Kafue River",
+    "optionC": "Zambezi River",
+    "optionD": "Luapula River",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 307,
+    "category": "Tourism",
+    "questionText": "Which natural wonder is singled out in Zambia Tourism's main slogan as one of Zambia's headline attractions?",
+    "optionA": "Kalambo Falls",
+    "optionB": "Victoria Falls",
+    "optionC": "Kundalila Falls",
+    "optionD": "Lumangwe Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 308,
+    "category": "Tourism",
+    "questionText": "What does Zambia Tourism say travellers can explore in Zambia besides wildlife?",
+    "optionA": "Only industrial mines",
+    "optionB": "The real Africa",
+    "optionC": "Only conference centres",
+    "optionD": "Only shopping districts",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 309,
+    "category": "Tourism",
+    "questionText": "Which phrase best matches how Zambia Tourism markets Zambia's overall tourism appeal?",
+    "optionA": "Beaches, islands and coral reefs",
+    "optionB": "Waterfalls, wildlife, and wilderness",
+    "optionC": "Ski slopes and glaciers",
+    "optionD": "Mega-cities and nightlife only",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 310,
+    "category": "Tourism",
+    "questionText": "What tone does Zambia Tourism use to describe Zambia as a destination in terms of safety and people?",
+    "optionA": "Hostile and unpredictable",
+    "optionB": "Welcoming and peaceful",
+    "optionC": "Crowded and aggressive",
+    "optionD": "Remote and inaccessible only",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 311,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, what are the five major waterfalls of Zambia?",
+    "optionA": "Victoria, Kalambo, Kundalila, Lumangwe and Ngonye",
+    "optionB": "Victoria, Chisimba, Kabweluma, Ntumbachushi and Mumbuluma",
+    "optionC": "Kalambo, Chisimba, Chipoma, Mutumuna and Nyambwezi",
+    "optionD": "Lumangwe, Kundabwika, Chipembe, Mumbuluma and Ntumbachushi",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 312,
+    "category": "Tourism",
+    "questionText": "Which waterfall is also known as Sioma Falls?",
+    "optionA": "Kalambo Falls",
+    "optionB": "Ngonye Falls",
+    "optionC": "Lumangwe Falls",
+    "optionD": "Kundalila Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 313,
+    "category": "Tourism",
+    "questionText": "Which waterfall is on the Kalambo River and near Mbala?",
+    "optionA": "Kalambo Falls",
+    "optionB": "Ngonye Falls",
+    "optionC": "Lumangwe Falls",
+    "optionD": "Victoria Falls",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 314,
+    "category": "Tourism",
+    "questionText": "Which waterfall nourishes a small rainforest on the Kalungwishi River?",
+    "optionA": "Kundalila Falls",
+    "optionB": "Ngonye Falls",
+    "optionC": "Lumangwe Falls",
+    "optionD": "Chisimba Falls",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 315,
+    "category": "Tourism",
+    "questionText": "Which waterfall offers spectacular views over the Luangwa Valley and has a name meaning 'cooing or crying dove' in Bemba?",
+    "optionA": "Kalambo Falls",
+    "optionB": "Kundalila Falls",
+    "optionC": "Lumangwe Falls",
+    "optionD": "Ngonye Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 316,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, there are 17 other beautiful waterfalls dotted around the country besides which famous one?",
+    "optionA": "Kalambo Falls",
+    "optionB": "Victoria Falls",
+    "optionC": "Lumangwe Falls",
+    "optionD": "Ngonye Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 317,
+    "category": "Tourism",
+    "questionText": "Which of these is listed by Zambia Tourism as a smaller waterfall rather than a major one?",
+    "optionA": "Kalambo Falls",
+    "optionB": "Kundalila Falls",
+    "optionC": "Chisimba Falls",
+    "optionD": "Ngonye Falls",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 318,
+    "category": "Tourism",
+    "questionText": "Which of these is listed by Zambia Tourism as a smaller waterfall?",
+    "optionA": "Lumangwe Falls",
+    "optionB": "Victoria Falls",
+    "optionC": "Kabweluma Falls",
+    "optionD": "Kalambo Falls",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 319,
+    "category": "Tourism",
+    "questionText": "Which of these is listed by Zambia Tourism as a smaller waterfall?",
+    "optionA": "Ngonye Falls",
+    "optionB": "Kundabwika Falls",
+    "optionC": "Kalambo Falls",
+    "optionD": "Lumangwe Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 320,
+    "category": "Tourism",
+    "questionText": "Which of these is listed by Zambia Tourism as a smaller waterfall?",
+    "optionA": "Chipoma Falls",
+    "optionB": "Victoria Falls",
+    "optionC": "Kalambo Falls",
+    "optionD": "Ngonye Falls",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 321,
+    "category": "Tourism",
+    "questionText": "Victoria Falls forms a natural border between Zambia and which neighbouring country?",
+    "optionA": "Botswana",
+    "optionB": "Mozambique",
+    "optionC": "Zimbabwe",
+    "optionD": "Namibia",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 322,
+    "category": "Tourism",
+    "questionText": "Which local name did the Kololo give Victoria Falls according to Zambia Tourism?",
+    "optionA": "Nalikwanda",
+    "optionB": "Mosi-oa-Tunya",
+    "optionC": "Lwiindi",
+    "optionD": "Batoka",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 323,
+    "category": "Tourism",
+    "questionText": "What does 'Mosi-oa-Tunya' mean in the context of Victoria Falls?",
+    "optionA": "The Long River",
+    "optionB": "The Smoke that Thunders",
+    "optionC": "The Great Crossing",
+    "optionD": "The Royal Gorge",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 324,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, Victoria Falls is also known as what when its width and height are combined?",
+    "optionA": "Africa's deepest waterfall",
+    "optionB": "The greatest curtain of falling water in the world",
+    "optionC": "The widest river in the region",
+    "optionD": "The oldest waterfall in Africa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 325,
+    "category": "Tourism",
+    "questionText": "Which bridge gives one of the finest views of the Eastern Cataract and Main Falls?",
+    "optionA": "Victoria Falls Bridge",
+    "optionB": "Knife-edge Bridge",
+    "optionC": "Livingstone Bridge",
+    "optionD": "Batoka Bridge",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 326,
+    "category": "Tourism",
+    "questionText": "At Victoria Falls, which place is named by Zambia Tourism as the point where the river turns and heads down the Batoka Gorge?",
+    "optionA": "Devil's Pool",
+    "optionB": "The Boiling Pot",
+    "optionC": "Lookout Tree",
+    "optionD": "Main Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 327,
+    "category": "Tourism",
+    "questionText": "Which island is one of the vantage points for viewing Victoria Falls according to Zambia Tourism?",
+    "optionA": "Chilubi Island",
+    "optionB": "Livingstone Island",
+    "optionC": "Mbala Island",
+    "optionD": "Mweru Island",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 328,
+    "category": "Tourism",
+    "questionText": "What kind of bridge activity is included in the Victoria Falls activities list?",
+    "optionA": "Bungee jumping",
+    "optionB": "Zip-lining over Kariba only",
+    "optionC": "Glacier climbing",
+    "optionD": "Sandboarding",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 329,
+    "category": "Tourism",
+    "questionText": "Which gorge is specifically linked to white-water rafting and other adventure activities near Victoria Falls?",
+    "optionA": "Kafue Gorge",
+    "optionB": "Batoka Gorge",
+    "optionC": "Luangwa Gorge",
+    "optionD": "Chambeshi Gorge",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 330,
+    "category": "Tourism",
+    "questionText": "According to the Livingstone activities page, what sport takes place through the Batoka Gorge?",
+    "optionA": "Whitewater rafting",
+    "optionB": "Jet skiing",
+    "optionC": "Scuba diving",
+    "optionD": "Ice kayaking",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 331,
+    "category": "Tourism",
+    "questionText": "Which river must visitors rock-walk and swim in to reach Devil's Pool?",
+    "optionA": "Luangwa River",
+    "optionB": "Kafue River",
+    "optionC": "Zambezi River",
+    "optionD": "Lungwebungu River",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 332,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, Devil's Pool is generally closed between which months when the water is very high?",
+    "optionA": "January to March",
+    "optionB": "March to May",
+    "optionC": "May to July",
+    "optionD": "July to September",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 333,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, Devil's Pool is usually open between which months, depending on water level?",
+    "optionA": "August to January",
+    "optionB": "February to April",
+    "optionC": "April to June",
+    "optionD": "November to March",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 334,
+    "category": "Tourism",
+    "questionText": "Which island must visitors access before getting to Devil's Pool, according to Zambia Tourism?",
+    "optionA": "Chilubi Island",
+    "optionB": "Livingstone Island",
+    "optionC": "Mweru Island",
+    "optionD": "Kariba Island",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 335,
+    "category": "Tourism",
+    "questionText": "Flights over Victoria Falls are commonly known by what name?",
+    "optionA": "The Sky Rush",
+    "optionB": "The Flight of Angels",
+    "optionC": "The Gorge View",
+    "optionD": "The Thunder Run",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 336,
+    "category": "Tourism",
+    "questionText": "Which two types of flights over Victoria Falls are named on Zambia Tourism's adventure page?",
+    "optionA": "Helicopter and microlight",
+    "optionB": "Jet and glider",
+    "optionC": "Hot air balloon and jet ski",
+    "optionD": "Paraglider and drone",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 337,
+    "category": "Tourism",
+    "questionText": "Which bridge activity does Zambia Tourism say is open throughout the year but closed when raining?",
+    "optionA": "Bungee jumping and abseiling",
+    "optionB": "Jet skiing and canoeing",
+    "optionC": "White-water rafting only",
+    "optionD": "Microlight flights only",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 338,
+    "category": "Tourism",
+    "questionText": "Which of the following is listed among Victoria Falls adrenaline activities?",
+    "optionA": "River boarding",
+    "optionB": "Snow rafting",
+    "optionC": "Ice climbing",
+    "optionD": "Surfing on the sea",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 339,
+    "category": "Tourism",
+    "questionText": "Which of the following is listed among Victoria Falls activities by Zambia Tourism?",
+    "optionA": "Gorge swing",
+    "optionB": "Camel trekking",
+    "optionC": "Ski jumping",
+    "optionD": "Sand skiing",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 340,
+    "category": "Tourism",
+    "questionText": "Which of the following is listed among Victoria Falls activities by Zambia Tourism?",
+    "optionA": "Hydrospeeding",
+    "optionB": "Snowshoeing",
+    "optionC": "Glacier tubing",
+    "optionD": "Volcano boarding",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 341,
+    "category": "Tourism",
+    "questionText": "South Luangwa is especially famous in Zambia Tourism material for being the home of what safari style?",
+    "optionA": "Horse safari",
+    "optionB": "Walking safari",
+    "optionC": "Desert safari",
+    "optionD": "Camel safari",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 342,
+    "category": "Tourism",
+    "questionText": "Which of the following is listed as a South Luangwa safari option?",
+    "optionA": "Mobile walking safaris",
+    "optionB": "Submarine safaris",
+    "optionC": "Snowmobile tours",
+    "optionD": "Heli-skiing",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 343,
+    "category": "Tourism",
+    "questionText": "Which of the following is specifically listed on the South Luangwa park page?",
+    "optionA": "Night drives",
+    "optionB": "Jet ski racing",
+    "optionC": "Bungee jumping",
+    "optionD": "Ocean kayaking",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 344,
+    "category": "Tourism",
+    "questionText": "Morning game drives in South Luangwa usually start when according to Zambia Tourism?",
+    "optionA": "Just after lunch",
+    "optionB": "Before sunrise",
+    "optionC": "At midnight",
+    "optionD": "At sunset",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 345,
+    "category": "Tourism",
+    "questionText": "Why do afternoon game drives in South Luangwa often continue after slightly dark?",
+    "optionA": "To spot night-time inhabitants",
+    "optionB": "To cross into Zimbabwe",
+    "optionC": "To fish in the river",
+    "optionD": "To visit museums",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 346,
+    "category": "Tourism",
+    "questionText": "Which activity is singled out as one of the best known experiences in South Luangwa?",
+    "optionA": "Walking from one overnight camp to another",
+    "optionB": "Houseboating on Kariba",
+    "optionC": "Jet skiing at Siavonga",
+    "optionD": "Bridge swinging in Livingstone",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 347,
+    "category": "Tourism",
+    "questionText": "What kind of creatures does Zambia Tourism say night drives in South Luangwa help visitors enjoy?",
+    "optionA": "Nocturnal creatures",
+    "optionB": "Only aquatic fish",
+    "optionC": "Only reptiles in cages",
+    "optionD": "Only domestic animals",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 348,
+    "category": "Tourism",
+    "questionText": "Why are mobile walking safaris in South Luangwa unusual according to Zambia Tourism?",
+    "optionA": "They explore areas where there are no roads",
+    "optionB": "They use snow tracks",
+    "optionC": "They require helicopters only",
+    "optionD": "They happen only on islands",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 349,
+    "category": "Tourism",
+    "questionText": "Which national park is most strongly linked by Zambia Tourism to the phrase 'legendary African walking safari'?",
+    "optionA": "South Luangwa",
+    "optionB": "Blue Lagoon",
+    "optionC": "Lochinvar",
+    "optionD": "Mosi-oa-Tunya",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 350,
+    "category": "Tourism",
+    "questionText": "Which river valley is South Luangwa tourism built around?",
+    "optionA": "Luangwa Valley",
+    "optionB": "Kafue Flats",
+    "optionC": "Barotse Floodplain",
+    "optionD": "Lake Kariba shore",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 351,
+    "category": "Tourism",
+    "questionText": "Kafue National Park is described by Zambia Tourism as Zambia's what?",
+    "optionA": "Smallest park",
+    "optionB": "Oldest and largest park",
+    "optionC": "Newest and smallest park",
+    "optionD": "Only marine park",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 352,
+    "category": "Tourism",
+    "questionText": "How large is Kafue National Park according to Zambia Tourism?",
+    "optionA": "4,636 km²",
+    "optionB": "8,650 km²",
+    "optionC": "22,400 km²",
+    "optionD": "33,000 km²",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 353,
+    "category": "Tourism",
+    "questionText": "Zambia Tourism says Kafue accounts for approximately what share of the country's national park system?",
+    "optionA": "10%",
+    "optionB": "20%",
+    "optionC": "33%",
+    "optionD": "50%",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 354,
+    "category": "Tourism",
+    "questionText": "Where does Zambia Tourism locate Kafue National Park?",
+    "optionA": "The far north-east only",
+    "optionB": "The centre of western Zambia",
+    "optionC": "On Lake Tanganyika's shore",
+    "optionD": "Inside Lusaka city",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 355,
+    "category": "Tourism",
+    "questionText": "What does Zambia Tourism emphasize about Kafue as a wilderness area?",
+    "optionA": "It remains mostly untouched",
+    "optionB": "It is entirely urbanised",
+    "optionC": "It is only for conferences",
+    "optionD": "It has no wildlife",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 356,
+    "category": "Tourism",
+    "questionText": "Which landscape within Kafue is highlighted on the Zambia Tourism map as its own attraction area?",
+    "optionA": "Busanga Plains",
+    "optionB": "Barotse Floodplains",
+    "optionC": "Kafue Gorge only",
+    "optionD": "Lake Mweru plain",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 357,
+    "category": "Tourism",
+    "questionText": "Which province highlights Kafue National Park among its tourism attractions on the Zambia Tourism map page?",
+    "optionA": "Central Province",
+    "optionB": "Eastern Province",
+    "optionC": "Luapula Province",
+    "optionD": "Northern Province",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 358,
+    "category": "Tourism",
+    "questionText": "Which recent Zambia Tourism feature says Kafue is a safari lover's dream with over 500 recorded bird species and 158 mammal species?",
+    "optionA": "Top Accommodation in Kafue as Demand Surges",
+    "optionB": "Lakes in Zambia",
+    "optionC": "Devil or Angel: Vic Falls famous pools",
+    "optionD": "Zambezi Tiger Fishing",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 359,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, which two major towns make Kafue relatively easy to access by road?",
+    "optionA": "Lusaka and Livingstone",
+    "optionB": "Mbala and Kasama",
+    "optionC": "Mansa and Kawambwa",
+    "optionD": "Chipata and Lundazi",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 360,
+    "category": "Tourism",
+    "questionText": "Which tourism trait is repeatedly emphasized about Kafue?",
+    "optionA": "Its exclusivity and large untouched wilderness",
+    "optionB": "Its beach resorts",
+    "optionC": "Its coral reefs",
+    "optionD": "Its glaciers",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 361,
+    "category": "Tourism",
+    "questionText": "Lower Zambezi National Park lies opposite which famous reserve in Zimbabwe?",
+    "optionA": "Hwange",
+    "optionB": "Mana Pools",
+    "optionC": "Gonarezhou",
+    "optionD": "Matobo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 362,
+    "category": "Tourism",
+    "questionText": "Zambia Tourism says the two sides of the river at Lower Zambezi form what?",
+    "optionA": "A joint customs zone",
+    "optionB": "A massive wildlife sanctuary",
+    "optionC": "A mining district",
+    "optionD": "A ferry route only",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 363,
+    "category": "Tourism",
+    "questionText": "Which activity is especially highlighted for Lower Zambezi National Park?",
+    "optionA": "Fishing",
+    "optionB": "Bungee jumping",
+    "optionC": "Skiing",
+    "optionD": "Cave diving",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 364,
+    "category": "Tourism",
+    "questionText": "Which fish is specifically named as a prized catch in Lower Zambezi?",
+    "optionA": "Trout",
+    "optionB": "Tiger fish",
+    "optionC": "Tilapia only",
+    "optionD": "Sardine",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 365,
+    "category": "Tourism",
+    "questionText": "Which other fish is listed by Zambia Tourism as a common Lower Zambezi catch alongside tiger fish and bream?",
+    "optionA": "Vundu",
+    "optionB": "Salmon",
+    "optionC": "Tuna",
+    "optionD": "Marlin",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 366,
+    "category": "Tourism",
+    "questionText": "What unusual bait does Zambia Tourism say works well for Lower Zambezi fishing?",
+    "optionA": "Cheap strong-smelling soap",
+    "optionB": "Bread crumbs only",
+    "optionC": "Sugar water",
+    "optionD": "Ground coffee",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 367,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, when is the most favourable time for tiger fishing on the Lower Zambezi?",
+    "optionA": "March to May",
+    "optionB": "June to September",
+    "optionC": "September to November",
+    "optionD": "December to February",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 368,
+    "category": "Tourism",
+    "questionText": "Why is September to November favourable for tiger fishing on the Lower Zambezi according to Zambia Tourism?",
+    "optionA": "The water is warm and still clear before the rains",
+    "optionB": "The river is frozen",
+    "optionC": "It is the coldest time of year",
+    "optionD": "All fishing restrictions end in one day",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 369,
+    "category": "Tourism",
+    "questionText": "Which kind of adventure is strongly associated with Lower Zambezi besides fishing?",
+    "optionA": "Walking safaris",
+    "optionB": "Snow trails",
+    "optionC": "Bridge swinging",
+    "optionD": "Microlight flights over the falls",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 370,
+    "category": "Tourism",
+    "questionText": "How does Zambia Tourism describe Lower Zambezi in terms of appearance from its accommodation page?",
+    "optionA": "Most picturesque park",
+    "optionB": "Most urbanised park",
+    "optionC": "Only birding park",
+    "optionD": "Newest safari city",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 371,
+    "category": "Tourism",
+    "questionText": "What wildlife spectacle is Kasanka National Park most famous for?",
+    "optionA": "The fruit-bat migration",
+    "optionB": "Marine turtle nesting",
+    "optionC": "Penguin colonies",
+    "optionD": "Camel racing",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 372,
+    "category": "Tourism",
+    "questionText": "About how many fruit bats does Zambia Tourism say gather in Kasanka from October?",
+    "optionA": "100,000",
+    "optionB": "1 million",
+    "optionC": "10 million",
+    "optionD": "25 million",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 373,
+    "category": "Tourism",
+    "questionText": "How does Zambia Tourism describe the Kasanka bat migration in global terms?",
+    "optionA": "Africa's second largest bird migration",
+    "optionB": "The world's biggest mammal migration",
+    "optionC": "The region's only bat event",
+    "optionD": "The deepest forest gathering",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 374,
+    "category": "Tourism",
+    "questionText": "During which month do the fruit bats begin arriving in Kasanka according to Zambia Tourism?",
+    "optionA": "June",
+    "optionB": "August",
+    "optionC": "October",
+    "optionD": "December",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 375,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, around what time do Kasanka's bats leave to forage?",
+    "optionA": "At sunrise",
+    "optionB": "At sunset",
+    "optionC": "At noon",
+    "optionD": "At midnight only",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 376,
+    "category": "Tourism",
+    "questionText": "What rare antelope does Zambia Tourism say is commonly found in Kasanka?",
+    "optionA": "Roan antelope",
+    "optionB": "Sitatunga",
+    "optionC": "Nyala",
+    "optionD": "Impala",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 377,
+    "category": "Tourism",
+    "questionText": "Which visitor activity is mentioned for Kasanka during bat season?",
+    "optionA": "Guided forest walks to view the bats",
+    "optionB": "Bungee jumping from a bridge",
+    "optionC": "White-water rafting",
+    "optionD": "Microlight flights",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 378,
+    "category": "Tourism",
+    "questionText": "How does Zambia Tourism describe Kasanka's scenery overall?",
+    "optionA": "One of Zambia's most picturesque parks",
+    "optionB": "Mainly urban and industrial",
+    "optionC": "Only dry desert",
+    "optionD": "Mostly coastal marshes",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 379,
+    "category": "Tourism",
+    "questionText": "Which district is Kasanka associated with in the tourism material cited in search results?",
+    "optionA": "Serenje",
+    "optionB": "Kalomo",
+    "optionC": "Chipata",
+    "optionD": "Mwinilunga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 380,
+    "category": "Tourism",
+    "questionText": "What kind of park appeal besides bats does Zambia Tourism emphasize for Kasanka?",
+    "optionA": "Birdlife, wetlands, woodlands and lakes",
+    "optionB": "Only shopping and nightlife",
+    "optionC": "Only conference tourism",
+    "optionD": "Only snow sports",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 381,
+    "category": "Tourism",
+    "questionText": "Which national park lies only about 120 km west of Lusaka on the Kafue Flats?",
+    "optionA": "Blue Lagoon National Park",
+    "optionB": "Lochinvar National Park",
+    "optionC": "Lusaka National Park",
+    "optionD": "Mosi-oa-Tunya National Park",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 382,
+    "category": "Tourism",
+    "questionText": "Which antelope is specifically associated with Blue Lagoon National Park?",
+    "optionA": "Kafue lechwe",
+    "optionB": "Sitatunga only",
+    "optionC": "Sable",
+    "optionD": "Puku",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 383,
+    "category": "Tourism",
+    "questionText": "How does Zambia Tourism describe Blue Lagoon from a birding point of view?",
+    "optionA": "A birdwatcher's dream",
+    "optionB": "Poor for birding",
+    "optionC": "Only for fishing",
+    "optionD": "Only for camp meetings",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 384,
+    "category": "Tourism",
+    "questionText": "Lochinvar National Park lies on which broader floodplain system?",
+    "optionA": "Barotse Floodplains",
+    "optionB": "Kafue Flats",
+    "optionC": "Bangweulu Swamps",
+    "optionD": "Liuwa Plain",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 385,
+    "category": "Tourism",
+    "questionText": "Which lagoon is specifically named within Lochinvar National Park?",
+    "optionA": "Chunga Lagoon",
+    "optionB": "Mweru Lagoon",
+    "optionC": "Nsombo Lagoon",
+    "optionD": "Nalolo Lagoon",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 386,
+    "category": "Tourism",
+    "questionText": "Which Zambian national park is described as one of the smallest and runs about 12 km along the Zambezi above Victoria Falls?",
+    "optionA": "Lusaka National Park",
+    "optionB": "Mosi-oa-Tunya National Park",
+    "optionC": "Lochinvar National Park",
+    "optionD": "Blue Lagoon National Park",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 387,
+    "category": "Tourism",
+    "questionText": "Which animals are specifically mentioned on the Mosi-oa-Tunya page as especially seen during the drier months?",
+    "optionA": "Elephants",
+    "optionB": "Penguins",
+    "optionC": "Camels",
+    "optionD": "Seals",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 388,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism's national parks overview, Mosi-oa-Tunya is regarded more like what kind of park because it has no predators?",
+    "optionA": "A zoological park",
+    "optionB": "A marine park",
+    "optionC": "A city park",
+    "optionD": "A heritage park only",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 389,
+    "category": "Tourism",
+    "questionText": "North Luangwa is described by Zambia Tourism as offering what kind of experience?",
+    "optionA": "One of the finest wilderness experiences in Zambia",
+    "optionB": "One of the busiest city experiences",
+    "optionC": "Only conference tourism",
+    "optionD": "Only beach holidays",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 390,
+    "category": "Tourism",
+    "questionText": "Which species is specifically mentioned as protected in North Luangwa's Special Protection Zone?",
+    "optionA": "Black rhino",
+    "optionB": "White rhino",
+    "optionC": "Mountain gorilla",
+    "optionD": "Sea turtle",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 391,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism's lakes page, which lake is the longest in the world and one of the deepest?",
+    "optionA": "Lake Kariba",
+    "optionB": "Lake Mweru",
+    "optionC": "Lake Tanganyika",
+    "optionD": "Lake Bangweulu",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 392,
+    "category": "Tourism",
+    "questionText": "Which lake is described by Zambia Tourism as Africa's largest artificial dam?",
+    "optionA": "Lake Tanganyika",
+    "optionB": "Lake Kariba",
+    "optionC": "Lake Bangweulu",
+    "optionD": "Lake Mweru",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 393,
+    "category": "Tourism",
+    "questionText": "Which lake is described by Zambia Tourism as Zambia's own 'French Riviera'?",
+    "optionA": "Lake Mweru",
+    "optionB": "Lake Tanganyika",
+    "optionC": "Lake Kariba",
+    "optionD": "Lake Bangweulu",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 394,
+    "category": "Tourism",
+    "questionText": "What kind of tourism is Lake Kariba especially associated with according to Zambia Tourism?",
+    "optionA": "Fishing, boating and water sports",
+    "optionB": "Snow trekking",
+    "optionC": "Coral reef diving",
+    "optionD": "Glacier cruises",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 395,
+    "category": "Tourism",
+    "questionText": "According to Zambia Tourism, which lake boasts over 350 species of fish, most of them endemic?",
+    "optionA": "Lake Kariba",
+    "optionB": "Lake Tanganyika",
+    "optionC": "Lake Bangweulu",
+    "optionD": "Lake Mweru",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 396,
+    "category": "Tourism",
+    "questionText": "Which town is strongly linked to Lake Kariba tourism on Zambia Tourism's site?",
+    "optionA": "Siavonga",
+    "optionB": "Kasama",
+    "optionC": "Chipata",
+    "optionD": "Solwezi",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 397,
+    "category": "Tourism",
+    "questionText": "The Siavonga Tiger Challenge is what kind of event?",
+    "optionA": "Tiger fishing competition",
+    "optionB": "Jet ski race only",
+    "optionC": "Mountain biking event",
+    "optionD": "Horse derby",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 398,
+    "category": "Tourism",
+    "questionText": "When does the Siavonga Tiger Challenge take place according to Zambia Tourism?",
+    "optionA": "Early June",
+    "optionB": "Early December",
+    "optionC": "Late March",
+    "optionD": "Late August",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 399,
+    "category": "Tourism",
+    "questionText": "What takes place in Siavonga in June according to Zambia Tourism?",
+    "optionA": "The Mosi Canoe Challenge",
+    "optionB": "The Kuomboka ceremony",
+    "optionC": "The Flight of Angels race",
+    "optionD": "The Bat Migration Festival",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 400,
+    "category": "Tourism",
+    "questionText": "Which province's main attractions include water activities along the Zambezi River, Sioma Ngwezi National Park and Liuwa Plain National Park according to the Zambia Tourism map?",
+    "optionA": "Western Province",
+    "optionB": "Southern Province",
+    "optionC": "Lusaka Province",
+    "optionD": "North-Western Province",
+    "correctAnswer": "A"
+  }
+]

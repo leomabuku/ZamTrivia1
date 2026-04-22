@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Semantic Overrides for Dark Mode (Literal values) -->
+    <color name="dark_bg">@color/dk_background</color>
+    <color name="card_background">@color/dk_surface</color>
+    <color name="surface_dark">@color/dk_surface</color>
+    <color name="card_border">#30363D</color>
+    <color name="gold_accent">@color/dk_accent</color>
+    <color name="red_accent">@color/dk_secondary</color>
+    <color name="text_primary">@color/dk_text_primary</color>
+    <color name="text_secondary">@color/dk_text_secondary</color>
+
+    <!-- Quiz Result Colors (Dark) -->
+    <color name="correct_bg">#1B5E20</color>
+    <color name="correct_text">#81C784</color>
+    <color name="wrong_bg">#B71C1C</color>
+    <color name="wrong_text">#E57373</color>
+</resources>

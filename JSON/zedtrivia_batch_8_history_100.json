@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 701,
+    "category": "History",
+    "questionText": "According to Zambia Tourism and Britannica, which two sites are especially noted for very early Stone Age discoveries in Zambia?",
+    "optionA": "Lake Kariba and Kafue Gorge",
+    "optionB": "Kalambo Falls and Victoria Falls",
+    "optionC": "Mongu and Choma",
+    "optionD": "Kabwe and Kasama only",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 702,
+    "category": "History",
+    "questionText": "The famous 'Broken Hill Man' skull was discovered in present-day Zambia in which town?",
+    "optionA": "Kabwe",
+    "optionB": "Ndola",
+    "optionC": "Livingstone",
+    "optionD": "Mansa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 703,
+    "category": "History",
+    "questionText": "In what year was the Kabwe skull, also called Broken Hill Man, discovered?",
+    "optionA": "1890",
+    "optionB": "1911",
+    "optionC": "1921",
+    "optionD": "1953",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 704,
+    "category": "History",
+    "questionText": "Britannica says the Kabwe cranium is now considered representative of which human species?",
+    "optionA": "Homo erectus",
+    "optionB": "Homo heidelbergensis",
+    "optionC": "Australopithecus afarensis",
+    "optionD": "Homo habilis",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 705,
+    "category": "History",
+    "questionText": "According to Zambia Tourism's history page, evidence at Kalambo Falls suggests early humans began using what there about 60,000 years ago?",
+    "optionA": "Copper tools",
+    "optionB": "Writing",
+    "optionC": "Fire",
+    "optionD": "Domesticated cattle",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 706,
+    "category": "History",
+    "questionText": "Which Stone Age phase does Zambia Tourism associate with the likely emergence of modern humans in what is now Zambia?",
+    "optionA": "Middle Stone Age",
+    "optionB": "Bronze Age",
+    "optionC": "Iron Age",
+    "optionD": "Late Colonial Era",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 707,
+    "category": "History",
+    "questionText": "According to Britannica, by about 20,000 BCE the surviving human type was the ancestor of modern humans known as what?",
+    "optionA": "Homo heidelbergensis",
+    "optionB": "Homo sapiens sapiens",
+    "optionC": "Homo erectus",
+    "optionD": "Australopithecus africanus",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 708,
+    "category": "History",
+    "questionText": "Which tool or weapon does Britannica list among developments of early modern humans in Zambia's prehistoric record?",
+    "optionA": "Steam engine",
+    "optionB": "Crossbow",
+    "optionC": "Bow and arrow",
+    "optionD": "Gunpowder musket",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 709,
+    "category": "History",
+    "questionText": "According to Britannica, prehistoric remains of early industries in Zambia are often found in which places?",
+    "optionA": "Airports and rail stations",
+    "optionB": "Caves and rock-shelters",
+    "optionC": "Factories and mines only",
+    "optionD": "Ports and harbours",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 710,
+    "category": "History",
+    "questionText": "Which broad valley does Zambia Tourism describe as one of the cradles of the human race, stretching from the Lower Zambezi toward the Nile headwaters?",
+    "optionA": "Great Rift Valley",
+    "optionB": "Luangwa Valley",
+    "optionC": "Kafue Flats",
+    "optionD": "Barotse Floodplain",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 711,
+    "category": "History",
+    "questionText": "During the 1st millennium CE, Zambia was occupied by migrants from farther north who probably spoke which language family?",
+    "optionA": "Afro-Asiatic",
+    "optionB": "Bantu languages",
+    "optionC": "Khoisan languages",
+    "optionD": "Semitic languages",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 712,
+    "category": "History",
+    "questionText": "According to Britannica, traces of ironworking in central and western Zambia date to roughly which period?",
+    "optionA": "The first five or six centuries CE",
+    "optionB": "The 15th century only",
+    "optionC": "The 19th century only",
+    "optionD": "After 1964",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 713,
+    "category": "History",
+    "questionText": "By about 1000 CE, copper ingots were being made at which place at the western end of the Copperbelt?",
+    "optionA": "Broken Hill",
+    "optionB": "Kansanshi",
+    "optionC": "Mongu",
+    "optionD": "Lealui",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 714,
+    "category": "History",
+    "questionText": "Britannica suggests extensive trade in copper ingots at Kansanshi implies they may have also been used as what?",
+    "optionA": "Weapons only",
+    "optionB": "Currency",
+    "optionC": "Musical instruments",
+    "optionD": "Religious idols only",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 715,
+    "category": "History",
+    "questionText": "Which crop-processing or farming system does Britannica say became widespread in Zambia and depended heavily on iron axes?",
+    "optionA": "Irrigated rice terracing",
+    "optionB": "Chitemene cultivation",
+    "optionC": "Tea plantation farming",
+    "optionD": "Canal agriculture",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 716,
+    "category": "History",
+    "questionText": "In southern Zambia, cattle keeping became more intensive on which plateau early in the 2nd millennium CE?",
+    "optionA": "Batoka Plateau",
+    "optionB": "Nyika Plateau",
+    "optionC": "Mafinga Plateau",
+    "optionD": "Kafue Plateau",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 717,
+    "category": "History",
+    "questionText": "Which two practices does Britannica say were introduced alongside more intensive cattle keeping on the Batoka Plateau?",
+    "optionA": "Glass making and printing",
+    "optionB": "Cotton spinning and pipe smoking",
+    "optionC": "Ship building and salt mining",
+    "optionD": "Coin minting and writing",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 718,
+    "category": "History",
+    "questionText": "Which archaeological site near the confluence of the Zambezi and Kafue rivers is linked to 14th-century burials with gold beads, copper ingots and iron bells?",
+    "optionA": "Ingombe Ilede",
+    "optionB": "Lealui",
+    "optionC": "Bwana Mkubwa",
+    "optionD": "Zumbo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 719,
+    "category": "History",
+    "questionText": "According to Britannica, what exotic trade items were found near Kalomo and Ingombe Ilede in 14th-century burials?",
+    "optionA": "Gunpowder and rifles",
+    "optionB": "Seashell ornaments and glass beads",
+    "optionC": "Printed cloth and books",
+    "optionD": "Silver crowns and porcelain",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 720,
+    "category": "History",
+    "questionText": "The presence of imported beads and ornaments near Kalomo and Ingombe Ilede suggests early trade links with which broader area?",
+    "optionA": "The east coast",
+    "optionB": "North America",
+    "optionC": "Scandinavia",
+    "optionD": "South Asia only",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 721,
+    "category": "History",
+    "questionText": "Britannica notes legends in much of Zambia of chiefly families coming from which region in present-day DR Congo?",
+    "optionA": "Katanga coast",
+    "optionB": "Luba country",
+    "optionC": "Kivu highlands",
+    "optionD": "Kasai delta",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 722,
+    "category": "History",
+    "questionText": "By the early 19th century, which group was identified by Britannica as strengthening kingdom identity in northeastern Zambia?",
+    "optionA": "Lozi",
+    "optionB": "Bemba",
+    "optionC": "Ngoni",
+    "optionD": "Toka-Leya",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 723,
+    "category": "History",
+    "questionText": "By the early 19th century, which group had a strengthening kingdom in the east according to Britannica?",
+    "optionA": "Chewa",
+    "optionB": "Lozi",
+    "optionC": "Kaonde",
+    "optionD": "Luchazi",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 724,
+    "category": "History",
+    "questionText": "On the lower Luapula, which people are said by Britannica to have invaded from the west about 1740?",
+    "optionA": "Bemba",
+    "optionB": "Lunda",
+    "optionC": "Ngoni",
+    "optionD": "Chewa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 725,
+    "category": "History",
+    "questionText": "The Luyana later became better known by what name in Zambian history?",
+    "optionA": "Lozi",
+    "optionB": "Tonga",
+    "optionC": "Soli",
+    "optionD": "Lenje",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 726,
+    "category": "History",
+    "questionText": "Which kingdom on the upper Zambezi is identified in Britannica as later becoming the Lozi kingdom?",
+    "optionA": "Lunda",
+    "optionB": "Luyana",
+    "optionC": "Bemba",
+    "optionD": "Chewa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 727,
+    "category": "History",
+    "questionText": "Which two kingdoms does Britannica say developed relatively centralized government due to a prosperous valley environment?",
+    "optionA": "Lunda and Luyana",
+    "optionB": "Chewa and Ngoni",
+    "optionC": "Bisa and Soli",
+    "optionD": "Tumbuka and Namwanga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 728,
+    "category": "History",
+    "questionText": "Which ruler's title is associated with the Lunda kingdom on the Luapula in historical accounts of external trade?",
+    "optionA": "Litunga",
+    "optionB": "Mwata Kazembe",
+    "optionC": "Chitimukulu",
+    "optionD": "Mpezeni",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 729,
+    "category": "History",
+    "questionText": "Which ruler's title is associated with the Lozi kingdom and is still central in ceremony today?",
+    "optionA": "Litunga",
+    "optionB": "Mwata Kazembe",
+    "optionC": "Chitimukulu",
+    "optionD": "Mwenemutapa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 730,
+    "category": "History",
+    "questionText": "Which precolonial group later became famous for the Kuomboka ceremony on the upper Zambezi?",
+    "optionA": "Lozi",
+    "optionB": "Bemba",
+    "optionC": "Ngoni",
+    "optionD": "Chewa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 731,
+    "category": "History",
+    "questionText": "Trade between Zambia and the Western world is said by Britannica to have begun with which Europeans in Mozambique?",
+    "optionA": "The Dutch",
+    "optionB": "The Portuguese",
+    "optionC": "The Germans",
+    "optionD": "The French",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 732,
+    "category": "History",
+    "questionText": "By 1762, what two major items were the Portuguese regularly acquiring from Zambians in exchange for cotton cloth?",
+    "optionA": "Coffee and tea",
+    "optionB": "Ivory and copper",
+    "optionC": "Gold and diamonds only",
+    "optionD": "Salt and iron",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 733,
+    "category": "History",
+    "questionText": "Which two Portuguese trading posts were founded early in the 18th century at the confluence of the Zambezi and Luangwa rivers?",
+    "optionA": "Katete and Lundazi",
+    "optionB": "Zumbo and Feira",
+    "optionC": "Kafue and Kabwe",
+    "optionD": "Sesheke and Mongu",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 734,
+    "category": "History",
+    "questionText": "During the later 18th century, which southern Zambian group did Goans and Portuguese mine gold and hunt elephants among?",
+    "optionA": "Lozi",
+    "optionB": "Southern Chewa",
+    "optionC": "Bemba",
+    "optionD": "Ngoni",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 735,
+    "category": "History",
+    "questionText": "Which traders reported Portuguese activities to Kazembe III according to Britannica?",
+    "optionA": "Lala traders",
+    "optionB": "Bisa traders",
+    "optionC": "Nkoya traders",
+    "optionD": "Tumbuka traders",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 736,
+    "category": "History",
+    "questionText": "What trade route did Kazembe III hope to control better by engaging with the Portuguese directly?",
+    "optionA": "Ivory and copper routes through African middlemen",
+    "optionB": "Atlantic slave ships only",
+    "optionC": "Cape-to-Cairo rail traffic",
+    "optionD": "Indian Ocean spice trade",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 737,
+    "category": "History",
+    "questionText": "Western Zambia began to be drawn into which wider system in the early 19th century according to Britannica?",
+    "optionA": "Portuguese slave trade to Brazil",
+    "optionB": "Indian indenture system",
+    "optionC": "French mission network",
+    "optionD": "German railway scheme",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 738,
+    "category": "History",
+    "questionText": "From about 1840 to 1864, the Lozi kingdom was ruled by which invading group?",
+    "optionA": "Ngoni",
+    "optionB": "Kololo",
+    "optionC": "Bemba",
+    "optionD": "Chewa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 739,
+    "category": "History",
+    "questionText": "The Kololo who ruled the Lozi kingdom had fled north from which broader southern African region?",
+    "optionA": "Swahili coast",
+    "optionB": "Sotho country",
+    "optionC": "Kikuyu highlands",
+    "optionD": "Cape colony coast",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 740,
+    "category": "History",
+    "questionText": "In the 1860s and 1870s, the northern Chewa were conquered by which people?",
+    "optionA": "Lozi",
+    "optionB": "Ngoni",
+    "optionC": "Lunda",
+    "optionD": "Kaonde",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 741,
+    "category": "History",
+    "questionText": "Which 19th-century missionary-explorer first spread news of Victoria Falls to the Western world on 17 November 1855?",
+    "optionA": "Cecil Rhodes",
+    "optionB": "David Livingstone",
+    "optionC": "Emil Holub",
+    "optionD": "Serpa Pinto",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 742,
+    "category": "History",
+    "questionText": "According to Zambia Tourism, which local group escorted David Livingstone to Victoria Falls?",
+    "optionA": "Bemba",
+    "optionB": "Makololo",
+    "optionC": "Ngoni",
+    "optionD": "Lunda",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 743,
+    "category": "History",
+    "questionText": "On which date did David Livingstone first view the falls from what is now Livingstone Island?",
+    "optionA": "24 October 1964",
+    "optionB": "17 November 1855",
+    "optionC": "1 August 1953",
+    "optionD": "31 December 1963",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 744,
+    "category": "History",
+    "questionText": "David Livingstone gave the falls their English name in honour of whom?",
+    "optionA": "Queen Elizabeth II",
+    "optionB": "Queen Victoria",
+    "optionC": "Cecil Rhodes",
+    "optionD": "King George V",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 745,
+    "category": "History",
+    "questionText": "Before the railway arrived, at which crossing point was the river commonly crossed above the falls according to Zambia Tourism?",
+    "optionA": "Old Drift",
+    "optionB": "Kazungula Ferry",
+    "optionC": "Feira Crossing",
+    "optionD": "Sesheke Bridge",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 746,
+    "category": "History",
+    "questionText": "In what year did the building of the railway open up the Victoria Falls area to more European visitors?",
+    "optionA": "1890",
+    "optionB": "1905",
+    "optionC": "1911",
+    "optionD": "1924",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 747,
+    "category": "History",
+    "questionText": "Which company drove colonial settlement around Victoria Falls in response to Cecil Rhodes' imperial vision?",
+    "optionA": "ZESCO",
+    "optionB": "British South Africa Company",
+    "optionC": "Rhodesian Rail Board",
+    "optionD": "Chartered Copper Union",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 748,
+    "category": "History",
+    "questionText": "According to Cabinet historical data, the territory was known as Northern Rhodesia during which period?",
+    "optionA": "1890 to 1924",
+    "optionB": "1911 to 1964",
+    "optionC": "1924 to 1973",
+    "optionD": "1953 to 1963",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 749,
+    "category": "History",
+    "questionText": "In 1924, the British South Africa Company handed administration of Northern Rhodesia to which authority?",
+    "optionA": "The Federal Assembly",
+    "optionB": "The Colonial Office in London",
+    "optionC": "The League of Nations",
+    "optionD": "The Southern Rhodesian Parliament",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 750,
+    "category": "History",
+    "questionText": "Which mine exported copper from 1916 to 1918 according to Britannica?",
+    "optionA": "Nchanga",
+    "optionB": "Kansanshi",
+    "optionC": "Bwana Mkubwa",
+    "optionD": "Mufulira",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 751,
+    "category": "History",
+    "questionText": "From 1917 to 1925, what was Northern Rhodesia's main export according to Britannica?",
+    "optionA": "Tea",
+    "optionB": "Lead from Broken Hill",
+    "optionC": "Tobacco",
+    "optionD": "Cotton",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 752,
+    "category": "History",
+    "questionText": "Which wartime religious or millennial movement inspired rebellion among the Mambwe in the northeast?",
+    "optionA": "Watchtower movement",
+    "optionB": "Lumpa Church",
+    "optionC": "Mau Mau",
+    "optionD": "Chimurenga movement",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 753,
+    "category": "History",
+    "questionText": "How many troops were recruited from Northern Rhodesia for the East Africa campaign in World War I according to Britannica?",
+    "optionA": "1,500",
+    "optionB": "3,500",
+    "optionC": "10,000",
+    "optionD": "35,000",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 754,
+    "category": "History",
+    "questionText": "About how many porters were conscripted for the East Africa campaign according to Britannica?",
+    "optionA": "5,000",
+    "optionB": "15,000",
+    "optionC": "50,000",
+    "optionD": "100,000",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 755,
+    "category": "History",
+    "questionText": "According to Britannica, wartime hardships and labour demands in Northern Rhodesia fell especially heavily on whom in rural production?",
+    "optionA": "European settlers",
+    "optionB": "Women",
+    "optionC": "Asian traders",
+    "optionD": "Missionaries",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 756,
+    "category": "History",
+    "questionText": "In what year was the Federation of Rhodesia and Nyasaland created?",
+    "optionA": "1945",
+    "optionB": "1953",
+    "optionC": "1960",
+    "optionD": "1964",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 757,
+    "category": "History",
+    "questionText": "Which three territories made up the Federation of Rhodesia and Nyasaland?",
+    "optionA": "Northern Rhodesia, Southern Rhodesia and Nyasaland",
+    "optionB": "Northern Rhodesia, Tanganyika and Nyasaland",
+    "optionC": "Southern Rhodesia, Bechuanaland and Nyasaland",
+    "optionD": "Northern Rhodesia, Angola and Nyasaland",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 758,
+    "category": "History",
+    "questionText": "Which British prime minister's 'Wind of Change' speech is linked to the end of colonial rule pressures in Zambia's federation era?",
+    "optionA": "Winston Churchill",
+    "optionB": "Harold Macmillan",
+    "optionC": "Margaret Thatcher",
+    "optionD": "Clement Attlee",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 759,
+    "category": "History",
+    "questionText": "Which long-serving African nationalist leader is associated with the ANC in Northern Rhodesia before the rise of UNIP?",
+    "optionA": "Kenneth Kaunda",
+    "optionB": "Harry Nkumbula",
+    "optionC": "Levy Mwanawasa",
+    "optionD": "Guy Scott",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 760,
+    "category": "History",
+    "questionText": "Which party was formed in 1958 after younger nationalists broke away and later became the main vehicle for independence?",
+    "optionA": "MMD",
+    "optionB": "UPND",
+    "optionC": "UNIP",
+    "optionD": "PF",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 761,
+    "category": "History",
+    "questionText": "UNIP stands for what?",
+    "optionA": "United National Independence Party",
+    "optionB": "Union for National Industrial Progress",
+    "optionC": "United Northern Independence Platform",
+    "optionD": "Union of National People",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 762,
+    "category": "History",
+    "questionText": "According to Zambia Tourism's federation page, who took leadership of UNIP after coming out of detention?",
+    "optionA": "Harry Nkumbula",
+    "optionB": "Kenneth David Kaunda",
+    "optionC": "Michael Sata",
+    "optionD": "Frederick Chiluba",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 763,
+    "category": "History",
+    "questionText": "Which social force, including powerful miners, threw its weight behind UNIP and made nationalism unstoppable according to Zambia Tourism?",
+    "optionA": "Traditional courts",
+    "optionB": "Trade unions",
+    "optionC": "Federal army",
+    "optionD": "Mission schools only",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 764,
+    "category": "History",
+    "questionText": "On what date did Zambia gain independence from British rule?",
+    "optionA": "23 October 1964",
+    "optionB": "24 October 1964",
+    "optionC": "31 December 1963",
+    "optionD": "1 January 1965",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 765,
+    "category": "History",
+    "questionText": "On independence in October 1964, Northern Rhodesia was renamed what?",
+    "optionA": "Nyasaland",
+    "optionB": "Rhodesia",
+    "optionC": "Zambia",
+    "optionD": "Zamland",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 766,
+    "category": "History",
+    "questionText": "Who became the first Republican President of Zambia at independence?",
+    "optionA": "Harry Nkumbula",
+    "optionB": "Kenneth Kaunda",
+    "optionC": "Frederick Chiluba",
+    "optionD": "Levy Mwanawasa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 767,
+    "category": "History",
+    "questionText": "According to Cabinet historical data, Zambia takes its name from which river?",
+    "optionA": "Kafue",
+    "optionB": "Luangwa",
+    "optionC": "Zambezi",
+    "optionD": "Luapula",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 768,
+    "category": "History",
+    "questionText": "Which phrase introduced by Kenneth Kaunda at independence became central to national unity in Zambia?",
+    "optionA": "Work and Prosperity",
+    "optionB": "One Zambia, One Nation",
+    "optionC": "Freedom Through Strength",
+    "optionD": "Peace, Copper and Progress",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 769,
+    "category": "History",
+    "questionText": "According to Britannica, after interparty violence in the 1968 elections Kaunda moved Zambia toward what in 1972?",
+    "optionA": "Federalism",
+    "optionB": "One-party rule",
+    "optionC": "Monarchy",
+    "optionD": "Military rule",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 770,
+    "category": "History",
+    "questionText": "Which party became the only legal political party under the 1973 constitution of the Second Republic?",
+    "optionA": "MMD",
+    "optionB": "ANC",
+    "optionC": "UNIP",
+    "optionD": "PF",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 771,
+    "category": "History",
+    "questionText": "According to Britannica and parliamentary summaries, the Second Republic in Zambia lasted from 1973 to when?",
+    "optionA": "1987",
+    "optionB": "1990",
+    "optionC": "1991",
+    "optionD": "1996",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 772,
+    "category": "History",
+    "questionText": "What term does Britannica use for the constitutional arrangement of Zambia after 1973?",
+    "optionA": "One-party participatory democracy",
+    "optionB": "Federal constitutional monarchy",
+    "optionC": "Two-party socialism",
+    "optionD": "Military caretaker state",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 773,
+    "category": "History",
+    "questionText": "In which month and year did the National Assembly abolish the one-party state according to Britannica?",
+    "optionA": "June 1990",
+    "optionB": "August 1991",
+    "optionC": "October 1991",
+    "optionD": "January 1992",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 774,
+    "category": "History",
+    "questionText": "Which trade union leader defeated Kenneth Kaunda in Zambia's 1991 multiparty elections?",
+    "optionA": "Michael Sata",
+    "optionB": "Frederick Chiluba",
+    "optionC": "Levy Mwanawasa",
+    "optionD": "Rupiah Banda",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 775,
+    "category": "History",
+    "questionText": "Which party won the 1991 elections and launched the Third Republic?",
+    "optionA": "UNIP",
+    "optionB": "PF",
+    "optionC": "MMD",
+    "optionD": "UPND",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 776,
+    "category": "History",
+    "questionText": "What does MMD stand for in Zambian political history?",
+    "optionA": "Movement for Multiparty Democracy",
+    "optionB": "Movement for Modern Development",
+    "optionC": "Multi-Mining Development",
+    "optionD": "Movement for Majority Dialogue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 777,
+    "category": "History",
+    "questionText": "In 1996, what controversial constitutional restriction was introduced that affected presidential candidates?",
+    "optionA": "Candidates had to be army veterans",
+    "optionB": "Candidates had to be Zambian by birth with parents who were Zambian by birth",
+    "optionC": "Candidates had to be over 60",
+    "optionD": "Candidates had to own land in all provinces",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 778,
+    "category": "History",
+    "questionText": "Which longtime nationalist leader was widely seen as the target of the 1996 constitutional amendment on parentage?",
+    "optionA": "Harry Nkumbula",
+    "optionB": "Kenneth Kaunda",
+    "optionC": "Michael Sata",
+    "optionD": "Guy Scott",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 779,
+    "category": "History",
+    "questionText": "Which year saw a weak coup attempt against President Chiluba involving seizure of the national radio station?",
+    "optionA": "1993",
+    "optionB": "1997",
+    "optionC": "2001",
+    "optionD": "2006",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 780,
+    "category": "History",
+    "questionText": "Who succeeded Chiluba after the 2001 election and was sworn in in January 2002?",
+    "optionA": "Rupiah Banda",
+    "optionB": "Michael Sata",
+    "optionC": "Levy Mwanawasa",
+    "optionD": "Edgar Lungu",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 781,
+    "category": "History",
+    "questionText": "Which major governance campaign is especially associated with Levy Mwanawasa's presidency?",
+    "optionA": "Mass privatisation of schools",
+    "optionB": "Campaign against corruption",
+    "optionC": "Restoration of one-party rule",
+    "optionD": "Abolition of Parliament",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 782,
+    "category": "History",
+    "questionText": "In what year did President Levy Mwanawasa first suffer a stroke during his presidency?",
+    "optionA": "2002",
+    "optionB": "2004",
+    "optionC": "2006",
+    "optionD": "2008",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 783,
+    "category": "History",
+    "questionText": "After Mwanawasa's death in 2008, who served as acting president before the special election?",
+    "optionA": "Guy Scott",
+    "optionB": "Rupiah Banda",
+    "optionC": "Edgar Lungu",
+    "optionD": "Michael Sata",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 784,
+    "category": "History",
+    "questionText": "Who won the 2008 special presidential election held after Mwanawasa's death?",
+    "optionA": "Michael Sata",
+    "optionB": "Rupiah Banda",
+    "optionC": "Hakainde Hichilema",
+    "optionD": "Guy Scott",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 785,
+    "category": "History",
+    "questionText": "Who defeated Rupiah Banda in the 2011 presidential election?",
+    "optionA": "Edgar Lungu",
+    "optionB": "Hakainde Hichilema",
+    "optionC": "Michael Sata",
+    "optionD": "Levy Mwanawasa",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 786,
+    "category": "History",
+    "questionText": "On what date in 2011 was Michael Sata sworn in as president according to Britannica?",
+    "optionA": "20 September",
+    "optionB": "23 September",
+    "optionC": "24 October",
+    "optionD": "30 October",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 787,
+    "category": "History",
+    "questionText": "Which opposition party did Michael Sata lead to power in 2011?",
+    "optionA": "MMD",
+    "optionB": "UNIP",
+    "optionC": "PF",
+    "optionD": "UPND",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 788,
+    "category": "History",
+    "questionText": "What does PF stand for in modern Zambian political history?",
+    "optionA": "People's Federation",
+    "optionB": "Patriotic Front",
+    "optionC": "Progress Front",
+    "optionD": "Popular Freedom",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 789,
+    "category": "History",
+    "questionText": "Where did President Michael Sata die on 28 October 2014 according to Britannica?",
+    "optionA": "Lusaka",
+    "optionB": "Ndola",
+    "optionC": "Johannesburg",
+    "optionD": "London",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 790,
+    "category": "History",
+    "questionText": "Who became interim president after the death of Michael Sata?",
+    "optionA": "Rupiah Banda",
+    "optionB": "Guy Scott",
+    "optionC": "Edgar Lungu",
+    "optionD": "Hakainde Hichilema",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 791,
+    "category": "History",
+    "questionText": "Why was Guy Scott unable to contest the 2015 special presidential election?",
+    "optionA": "He was under 35",
+    "optionB": "He had not been an MP",
+    "optionC": "His parents were not born in Zambia under the 1996 constitutional amendment",
+    "optionD": "He belonged to the wrong party",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 792,
+    "category": "History",
+    "questionText": "Who won the special presidential election of 20 January 2015?",
+    "optionA": "Edgar Lungu",
+    "optionB": "Hakainde Hichilema",
+    "optionC": "Rupiah Banda",
+    "optionD": "Nevers Mumba",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 793,
+    "category": "History",
+    "questionText": "About what percentage of the vote did Edgar Lungu receive in the January 2015 special election according to Britannica?",
+    "optionA": "42.1%",
+    "optionB": "48.3%",
+    "optionC": "50.35%",
+    "optionD": "57%",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 794,
+    "category": "History",
+    "questionText": "Which challenger finished a close second to Edgar Lungu in the January 2015 special election?",
+    "optionA": "Michael Sata",
+    "optionB": "Hakainde Hichilema",
+    "optionC": "Rupiah Banda",
+    "optionD": "Levy Mwanawasa",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 795,
+    "category": "History",
+    "questionText": "What major new electoral requirement applied in Zambia's 2016 presidential election?",
+    "optionA": "A candidate had to win more than 50% to avoid a runoff",
+    "optionB": "Only party leaders could vote",
+    "optionC": "Parliament chose the president",
+    "optionD": "Presidents served a single 7-year term",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 796,
+    "category": "History",
+    "questionText": "Approximately what percentage did Edgar Lungu win with in the 2016 election according to Britannica?",
+    "optionA": "46.7%",
+    "optionB": "48.3%",
+    "optionC": "50.35%",
+    "optionD": "57.88%",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 797,
+    "category": "History",
+    "questionText": "Which major 2017 political incident involving Hakainde Hichilema is mentioned by Britannica?",
+    "optionA": "He joined the Cabinet",
+    "optionB": "He was arrested for treason after a motorcade incident",
+    "optionC": "He became Speaker of Parliament",
+    "optionD": "He boycotted the election commission",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 798,
+    "category": "History",
+    "questionText": "Which year saw an unsuccessful attempt by Lungu's PF to amend the constitution in a way critics said would expand presidential powers?",
+    "optionA": "2017",
+    "optionB": "2018",
+    "optionC": "2020",
+    "optionD": "2021",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 799,
+    "category": "History",
+    "questionText": "Who won Zambia's 2021 presidential election?",
+    "optionA": "Edgar Lungu",
+    "optionB": "Hakainde Hichilema",
+    "optionC": "Rupiah Banda",
+    "optionD": "Nevers Mumba",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 800,
+    "category": "History",
+    "questionText": "About what share of the vote did Hakainde Hichilema receive in the 2021 presidential election according to Britannica?",
+    "optionA": "Just over 40%",
+    "optionB": "48.3%",
+    "optionC": "More than 57%",
+    "optionD": "50.35%",
+    "correctAnswer": "C"
+  }
+]

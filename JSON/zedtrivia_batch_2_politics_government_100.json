@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 101,
+    "category": "Politics & Government",
+    "questionText": "As of 2026, who is the President of the Republic of Zambia?",
+    "optionA": "Hakainde Hichilema",
+    "optionB": "Mutale Nalumango",
+    "optionC": "Nelly Mutti",
+    "optionD": "Robert Chabinga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 102,
+    "category": "Politics & Government",
+    "questionText": "As of 2026, who is Zambia's Vice-President?",
+    "optionA": "Princess Kasune",
+    "optionB": "Mutale Nalumango",
+    "optionC": "Brenda Tambatamba",
+    "optionD": "Sylvia Masebo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 103,
+    "category": "Politics & Government",
+    "questionText": "Who is the Speaker of the National Assembly of Zambia?",
+    "optionA": "Nelly Butete Kashumba Mutti",
+    "optionB": "Malungo Chisangano",
+    "optionC": "Moses Frank Moyo",
+    "optionD": "Robert Chabinga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "category": "Politics & Government",
+    "questionText": "Who is the First Deputy Speaker of the National Assembly of Zambia?",
+    "optionA": "Moses Frank Moyo",
+    "optionB": "Malungo Chisangano",
+    "optionC": "Stafford Mulusa",
+    "optionD": "Jacob Jack Mwiimbu",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "category": "Politics & Government",
+    "questionText": "Who is the Second Deputy Speaker of the National Assembly of Zambia?",
+    "optionA": "Moses Frank Moyo",
+    "optionB": "Nelly Mutti",
+    "optionC": "Frank Tayali",
+    "optionD": "Situmbeko Musokotwane",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 106,
+    "category": "Politics & Government",
+    "questionText": "Who is the Government Chief Whip in the National Assembly of Zambia as shown on the 2026 parliamentary listings?",
+    "optionA": "Robert Chabinga",
+    "optionB": "Stafford Mulusa",
+    "optionC": "Stephen Kampyongo",
+    "optionD": "Anthony Chanda Mumba",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 107,
+    "category": "Politics & Government",
+    "questionText": "Who is listed as Leader of the Opposition in Zambia's National Assembly as of 2026?",
+    "optionA": "Brian Mundubile",
+    "optionB": "Stafford Mulusa",
+    "optionC": "Robert M Chabinga",
+    "optionD": "Stephen Kampyongo",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "category": "Politics & Government",
+    "questionText": "Which parliamentary constituency is represented by Robert M Chabinga, Zambia's Leader of the Opposition?",
+    "optionA": "Mafinga",
+    "optionB": "Mfuwe",
+    "optionC": "Mporokoso",
+    "optionD": "Kalabo Central",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 109,
+    "category": "Politics & Government",
+    "questionText": "According to the Office of the Vice President, who is appointed as Leader of Government Business in the House under Article 74(1)?",
+    "optionA": "The Speaker",
+    "optionB": "The Attorney-General",
+    "optionC": "The Vice-President",
+    "optionD": "The Chief Electoral Officer",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 110,
+    "category": "Politics & Government",
+    "questionText": "In debates of the National Assembly, who is repeatedly referred to as the Leader of Government Business in the House?",
+    "optionA": "The Speaker",
+    "optionB": "The Vice-President",
+    "optionC": "The Government Chief Whip",
+    "optionD": "The Leader of the Opposition",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 111,
+    "category": "Politics & Government",
+    "questionText": "Alex Katakwe is Member of Parliament for which constituency?",
+    "optionA": "Solwezi West",
+    "optionB": "Solwezi East",
+    "optionC": "Kasempa",
+    "optionD": "Mwinilunga",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 112,
+    "category": "Politics & Government",
+    "questionText": "Gift Simuunza Sialubalo is Member of Parliament for which constituency?",
+    "optionA": "Siavonga",
+    "optionB": "Monze",
+    "optionC": "Sinazongwe",
+    "optionD": "Gwembe",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 113,
+    "category": "Politics & Government",
+    "questionText": "Collins Nzovu represents which constituency in Parliament?",
+    "optionA": "Nangoma",
+    "optionB": "Kaoma",
+    "optionC": "Chirundu",
+    "optionD": "Kalomo Central",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 114,
+    "category": "Politics & Government",
+    "questionText": "Situmbeko Musokotwane is Member of Parliament for which constituency?",
+    "optionA": "Lumezi",
+    "optionB": "Liuwa",
+    "optionC": "Limulunga",
+    "optionD": "Livingstone",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 115,
+    "category": "Politics & Government",
+    "questionText": "Jacob Jack Mwiimbu is Member of Parliament for which constituency?",
+    "optionA": "Monze",
+    "optionB": "Mazabuka",
+    "optionC": "Choma Central",
+    "optionD": "Pemba",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 116,
+    "category": "Politics & Government",
+    "questionText": "Princess Kasune is MP for which constituency?",
+    "optionA": "Mkushi North",
+    "optionB": "Katuba",
+    "optionC": "Keembe",
+    "optionD": "Mumbwa",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 117,
+    "category": "Politics & Government",
+    "questionText": "Mulambo Haimbe is MP for which constituency?",
+    "optionA": "Matero",
+    "optionB": "Lusaka Central",
+    "optionC": "Kanyama",
+    "optionD": "Munali",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 118,
+    "category": "Politics & Government",
+    "questionText": "Paul C C Kabuswe is MP for which constituency?",
+    "optionA": "Chingola",
+    "optionB": "Chililabombwe",
+    "optionC": "Kitwe Central",
+    "optionD": "Roan",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 119,
+    "category": "Politics & Government",
+    "questionText": "Brenda Tambatamba is MP for which constituency?",
+    "optionA": "Solwezi Central",
+    "optionB": "Kasama Central",
+    "optionC": "Kasempa",
+    "optionD": "Kabwe Central",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 120,
+    "category": "Politics & Government",
+    "questionText": "Frank Tayali is MP for which constituency?",
+    "optionA": "Ndola Central",
+    "optionB": "Chifubu",
+    "optionC": "Bwana Mkubwa",
+    "optionD": "Kabushi",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 121,
+    "category": "Politics & Government",
+    "questionText": "As of March 2026, which portfolio was given to Alex Katakwe?",
+    "optionA": "Minister of Agriculture",
+    "optionB": "Minister of Health",
+    "optionC": "Minister of Education",
+    "optionD": "Minister of Mines and Minerals Development",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 122,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Finance and National Planning as of 2026?",
+    "optionA": "Jacob Jack Mwiimbu",
+    "optionB": "Situmbeko Musokotwane",
+    "optionC": "Charles Milupi",
+    "optionD": "Felix Mutati",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 123,
+    "category": "Politics & Government",
+    "questionText": "Which portfolio does Jacob Jack Mwiimbu hold?",
+    "optionA": "Home Affairs and Internal Security",
+    "optionB": "Justice",
+    "optionC": "Defence",
+    "optionD": "Technology and Science",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 124,
+    "category": "Politics & Government",
+    "questionText": "Gift Sialubalo currently serves in which ministry?",
+    "optionA": "Tourism",
+    "optionB": "Local Government and Rural Development",
+    "optionC": "Foreign Affairs and International Cooperation",
+    "optionD": "Education",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "category": "Politics & Government",
+    "questionText": "Which ministry is headed by Collins Nzovu?",
+    "optionA": "Green Economy and Environment",
+    "optionB": "Water Development and Sanitation",
+    "optionC": "Energy",
+    "optionD": "Justice",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 126,
+    "category": "Politics & Government",
+    "questionText": "Who is the current Minister of Justice?",
+    "optionA": "Mulambo Haimbe",
+    "optionB": "Princess Kasune",
+    "optionC": "Cornelius Mweetwa",
+    "optionD": "Brenda Tambatamba",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 127,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Information and Media?",
+    "optionA": "Frank Tayali",
+    "optionB": "Dauglas Siakalima",
+    "optionC": "Cornelius Mweetwa",
+    "optionD": "Rodney Sikumba",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 128,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Transport and Logistics?",
+    "optionA": "Frank Tayali",
+    "optionB": "Charles Milupi",
+    "optionC": "Paul Kabuswe",
+    "optionD": "Reuben Mtolo Phiri",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 129,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Infrastructure, Housing and Urban Development?",
+    "optionA": "Felix Mutati",
+    "optionB": "Charles Milupi",
+    "optionC": "Makozo Chikote",
+    "optionD": "Peter Chibwe Kapala",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 130,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Labour and Social Security?",
+    "optionA": "Brenda Tambatamba",
+    "optionB": "Princess Kasune",
+    "optionC": "Mutinta Mazoka",
+    "optionD": "Brenda Nyirenda",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 131,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Foreign Affairs and International Cooperation?",
+    "optionA": "Mulambo Haimbe",
+    "optionB": "Jacob Jack Mwiimbu",
+    "optionC": "Cornelius Mweetwa",
+    "optionD": "Felix Mutati",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 132,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Mines and Minerals Development?",
+    "optionA": "Paul Kabuswe",
+    "optionB": "Peter Chibwe Kapala",
+    "optionC": "Mike Mposha",
+    "optionD": "Elijah Muchima",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 133,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Technology and Science?",
+    "optionA": "Felix Mutati",
+    "optionB": "Charles Milupi",
+    "optionC": "Makozo Chikote",
+    "optionD": "Dauglas Siakalima",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 134,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Fisheries and Livestock?",
+    "optionA": "Makozo Chikote",
+    "optionB": "Peter Chibwe Kapala",
+    "optionC": "Reuben Mtolo Phiri",
+    "optionD": "Paul Kabuswe",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 135,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Energy?",
+    "optionA": "Peter Chibwe Kapala",
+    "optionB": "Makozo Chikote",
+    "optionC": "Felix Mutati",
+    "optionD": "Frank Tayali",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 136,
+    "category": "Politics & Government",
+    "questionText": "Who is the Minister of Agriculture?",
+    "optionA": "Rodney Sikumba",
+    "optionB": "Reuben Mtolo Phiri",
+    "optionC": "Elijah Muchima",
+    "optionD": "Paul Kabuswe",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 137,
+    "category": "Politics & Government",
+    "questionText": "Which constituency is represented by Princess Kasune, Zambia's Minister of Justice?",
+    "optionA": "Mkushi South",
+    "optionB": "Katuba",
+    "optionC": "Keembe",
+    "optionD": "Lufwanyama",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 138,
+    "category": "Politics & Government",
+    "questionText": "Which constituency is represented by Mulambo Haimbe, Zambia's Minister of Foreign Affairs and International Cooperation?",
+    "optionA": "Kanyama",
+    "optionB": "Lusaka Central",
+    "optionC": "Kabwe Central",
+    "optionD": "Munali",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 139,
+    "category": "Politics & Government",
+    "questionText": "Which constituency is represented by Paul Kabuswe, Zambia's Minister of Mines and Minerals Development?",
+    "optionA": "Chingola",
+    "optionB": "Chililabombwe",
+    "optionC": "Kitwe Central",
+    "optionD": "Kankoyo",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 140,
+    "category": "Politics & Government",
+    "questionText": "Which constituency is represented by Brenda Tambatamba, Zambia's Minister of Labour and Social Security?",
+    "optionA": "Kalumbila",
+    "optionB": "Kasempa",
+    "optionC": "Ikeleng'i",
+    "optionD": "Kasama Central",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 141,
+    "category": "Politics & Government",
+    "questionText": "The Electoral Commission of Zambia is established under which constitutional article named on its mandate page?",
+    "optionA": "Article 64",
+    "optionB": "Article 102",
+    "optionC": "Article 229",
+    "optionD": "Article 263",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 142,
+    "category": "Politics & Government",
+    "questionText": "Under its constitutional mandate, ECZ is responsible for doing what?",
+    "optionA": "Implementing the electoral process",
+    "optionB": "Running the Bank of Zambia",
+    "optionC": "Appointing judges",
+    "optionD": "Managing Parliament's budget office",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 143,
+    "category": "Politics & Government",
+    "questionText": "Which of the following is explicitly listed as an ECZ function?",
+    "optionA": "Register voters",
+    "optionB": "Issue passports",
+    "optionC": "Collect customs duty",
+    "optionD": "Approve national budgets",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 144,
+    "category": "Politics & Government",
+    "questionText": "Which of the following is another ECZ constitutional function?",
+    "optionA": "Conduct elections and referenda",
+    "optionB": "Appoint ministers",
+    "optionC": "Run local courts",
+    "optionD": "Manage provincial budgets",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 145,
+    "category": "Politics & Government",
+    "questionText": "Which of these is listed by ECZ as part of its mandate?",
+    "optionA": "Settle minor electoral disputes",
+    "optionB": "Approve Cabinet appointments",
+    "optionC": "Administer university exams",
+    "optionD": "Issue land titles",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 146,
+    "category": "Politics & Government",
+    "questionText": "Which of these does ECZ regulate according to its mandate page?",
+    "optionA": "The conduct of voters and candidates",
+    "optionB": "Only media houses",
+    "optionC": "Only Cabinet meetings",
+    "optionD": "Only constituency offices",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 147,
+    "category": "Politics & Government",
+    "questionText": "Which of these is specifically mentioned as an ECZ function?",
+    "optionA": "Accredit observers and election agents",
+    "optionB": "Appoint the Speaker",
+    "optionC": "Certify all laws",
+    "optionD": "Allocate ministerial vehicles",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 148,
+    "category": "Politics & Government",
+    "questionText": "Which boundary-related role belongs to ECZ?",
+    "optionA": "Delimit electoral boundaries",
+    "optionB": "Rename provinces",
+    "optionC": "Merge ministries",
+    "optionD": "Declare national parks",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 149,
+    "category": "Politics & Government",
+    "questionText": "Which law is cited on the ECZ mandate page as giving statutory functions to the Commission?",
+    "optionA": "Electoral Process Act No. 35 of 2016",
+    "optionB": "Referendum Act No. 1 of 1969",
+    "optionC": "Anti-Corruption Act No. 3 of 2012",
+    "optionD": "Public Order Act No. 10 of 1960",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 150,
+    "category": "Politics & Government",
+    "questionText": "According to ECZ, voter education is one of its statutory functions under which law?",
+    "optionA": "Electoral Process Act No. 35 of 2016",
+    "optionB": "Education Act",
+    "optionC": "Local Government Act",
+    "optionD": "National Registration Act",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 151,
+    "category": "Politics & Government",
+    "questionText": "On voting day in Zambia, voters elect which of the following according to ECZ?",
+    "optionA": "President, MPs, Mayors/Council Chairperson and Councillors",
+    "optionB": "Only President and governors",
+    "optionC": "Only MPs and judges",
+    "optionD": "Only mayors and chiefs",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 152,
+    "category": "Politics & Government",
+    "questionText": "Which document is listed by ECZ as one requirement to vote?",
+    "optionA": "Green National Registration Card",
+    "optionB": "Passport only",
+    "optionC": "Driver's licence only",
+    "optionD": "Tax clearance certificate",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 153,
+    "category": "Politics & Government",
+    "questionText": "Which additional document is listed by ECZ as a requirement to vote?",
+    "optionA": "Voter's Card",
+    "optionB": "Birth certificate",
+    "optionC": "Employment letter",
+    "optionD": "Marriage certificate",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 154,
+    "category": "Politics & Government",
+    "questionText": "According to ECZ, a person can only vote at which polling station?",
+    "optionA": "Any station within the district",
+    "optionB": "Any station within the province",
+    "optionC": "The one written on the voter's card",
+    "optionD": "Any station approved by a party agent",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 155,
+    "category": "Politics & Government",
+    "questionText": "What does ECZ say about secrecy in voting?",
+    "optionA": "Every person's vote is secret",
+    "optionB": "Party agents decide secrecy",
+    "optionC": "Only presidential votes are secret",
+    "optionD": "Votes are secret only in by-elections",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 156,
+    "category": "Politics & Government",
+    "questionText": "Who issues a Certificate of Authority to Vote according to ECZ?",
+    "optionA": "Returning Officer",
+    "optionB": "Speaker of the National Assembly",
+    "optionC": "Cabinet Secretary",
+    "optionD": "Ward Councillor",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 157,
+    "category": "Politics & Government",
+    "questionText": "A Certificate of Authority to Vote is mainly for which kind of person?",
+    "optionA": "An electoral officer deployed away from their polling station",
+    "optionB": "Any voter who forgot their NRC",
+    "optionC": "A first-time voter",
+    "optionD": "A candidate who changed party",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 158,
+    "category": "Politics & Government",
+    "questionText": "Besides the certificate, what must a person present when applying for a ballot paper under that arrangement?",
+    "optionA": "Green NRC and Voter's Card",
+    "optionB": "Passport and birth certificate",
+    "optionC": "Driving licence and voters card",
+    "optionD": "National health card and NRC",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 159,
+    "category": "Politics & Government",
+    "questionText": "Who may assist a voter who needs assistance, according to ECZ?",
+    "optionA": "A friend, a relative, or the Presiding Officer",
+    "optionB": "Only a party agent",
+    "optionC": "Only the Returning Officer",
+    "optionD": "Only a police officer",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 160,
+    "category": "Politics & Government",
+    "questionText": "If the person assisting is not the Presiding Officer, what age must they be at minimum according to ECZ?",
+    "optionA": "16 years",
+    "optionB": "18 years",
+    "optionC": "21 years",
+    "optionD": "25 years",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 161,
+    "category": "Politics & Government",
+    "questionText": "Which document must a non-Presiding Officer assistant possess according to ECZ?",
+    "optionA": "Green National Registration Card",
+    "optionB": "Driver's licence",
+    "optionC": "Passport only",
+    "optionD": "Employment card",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 162,
+    "category": "Politics & Government",
+    "questionText": "Which group does ECZ say may be allowed to go to the front of the queue?",
+    "optionA": "Expectant mothers",
+    "optionB": "Only candidates",
+    "optionC": "Only party officials",
+    "optionD": "Only election monitors",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 163,
+    "category": "Politics & Government",
+    "questionText": "Which other group is specifically allowed to go to the front of the queue according to ECZ?",
+    "optionA": "The aged",
+    "optionB": "Only MPs",
+    "optionC": "Only civil servants",
+    "optionD": "Only teachers",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 164,
+    "category": "Politics & Government",
+    "questionText": "What is the correct way of marking a ballot paper according to ECZ?",
+    "optionA": "With a tick",
+    "optionB": "With an X",
+    "optionC": "With initials",
+    "optionD": "With a thumb print",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 165,
+    "category": "Politics & Government",
+    "questionText": "A ballot paper is rejected if it is marked on how many candidates?",
+    "optionA": "More than one candidate",
+    "optionB": "Only one candidate",
+    "optionC": "No more than two candidates",
+    "optionD": "Exactly three candidates",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 166,
+    "category": "Politics & Government",
+    "questionText": "A ballot paper is rejected if it does not bear what?",
+    "optionA": "The official mark",
+    "optionB": "The candidate's signature",
+    "optionC": "A party stamp chosen by the voter",
+    "optionD": "A court seal",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 167,
+    "category": "Politics & Government",
+    "questionText": "Which of these can cause a ballot paper to be rejected according to ECZ?",
+    "optionA": "Writing something that could identify the voter",
+    "optionB": "Folding the ballot paper",
+    "optionC": "Arriving early at the polling station",
+    "optionD": "Queueing in alphabetical order",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 168,
+    "category": "Politics & Government",
+    "questionText": "Which of these can make a ballot paper rejected?",
+    "optionA": "Using a thumb print to mark it",
+    "optionB": "Marking it in the booth",
+    "optionC": "Casting it in the ballot box",
+    "optionD": "Receiving it from polling staff",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 169,
+    "category": "Politics & Government",
+    "questionText": "Before voting starts, ballot boxes are sealed with what according to ECZ?",
+    "optionA": "Numbered plastic seals",
+    "optionB": "Wax only",
+    "optionC": "Metal locks only",
+    "optionD": "Paper clips",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 170,
+    "category": "Politics & Government",
+    "questionText": "Presidential ballot boxes and ballot papers are identified by which colour according to ECZ?",
+    "optionA": "Orange",
+    "optionB": "Red",
+    "optionC": "Purple",
+    "optionD": "Black",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 171,
+    "category": "Politics & Government",
+    "questionText": "National Assembly ballot boxes and ballot papers are identified by which colour?",
+    "optionA": "Orange",
+    "optionB": "Purple",
+    "optionC": "Red",
+    "optionD": "Brown",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 172,
+    "category": "Politics & Government",
+    "questionText": "Mayoral/Council Chairperson ballot boxes and ballot papers are identified by which colour?",
+    "optionA": "Purple",
+    "optionB": "Red",
+    "optionC": "Black",
+    "optionD": "Orange",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 173,
+    "category": "Politics & Government",
+    "questionText": "Ward Councillor ballot boxes and ballot papers are identified by which colour?",
+    "optionA": "Brown",
+    "optionB": "Black",
+    "optionC": "Red",
+    "optionD": "Purple",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 174,
+    "category": "Politics & Government",
+    "questionText": "Referendum ballot boxes and ballot papers are identified by which colour?",
+    "optionA": "Purple",
+    "optionB": "Orange",
+    "optionC": "Brown",
+    "optionD": "Black",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 175,
+    "category": "Politics & Government",
+    "questionText": "According to ECZ, a referendum allows citizens to do what?",
+    "optionA": "Approve or reject a law or question directly",
+    "optionB": "Elect constituency officers only",
+    "optionC": "Appoint judges",
+    "optionD": "Choose Cabinet ministers",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 176,
+    "category": "Politics & Government",
+    "questionText": "In a referendum, voters are expected to choose between which two options?",
+    "optionA": "True or False",
+    "optionB": "Accept or Abstain",
+    "optionC": "Yes or No",
+    "optionD": "Pass or Fail",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 177,
+    "category": "Politics & Government",
+    "questionText": "ECZ says elections in Zambia are open to observation and monitoring by whom?",
+    "optionA": "International and local organisations",
+    "optionB": "Only government ministries",
+    "optionC": "Only chiefs",
+    "optionD": "Only parliamentary committees",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 178,
+    "category": "Politics & Government",
+    "questionText": "What does ECZ define accreditation as in the elections context?",
+    "optionA": "Authority granted to enter electoral centres and observe proceedings",
+    "optionB": "Automatic permission for all citizens to count votes",
+    "optionC": "Appointment to Cabinet",
+    "optionD": "Party adoption of candidates",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 179,
+    "category": "Politics & Government",
+    "questionText": "According to ECZ, accredited stakeholders should display what at all times?",
+    "optionA": "Identity cards",
+    "optionB": "Party regalia only",
+    "optionC": "Passport photos only",
+    "optionD": "Tax receipts",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 180,
+    "category": "Politics & Government",
+    "questionText": "What does ECZ say about political candidates during nominations?",
+    "optionA": "Political parties adopt candidates; ECZ does not propose or endorse them",
+    "optionB": "ECZ chooses the candidates for each party",
+    "optionC": "The courts appoint candidates",
+    "optionD": "Candidates are selected by observers",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 181,
+    "category": "Politics & Government",
+    "questionText": "According to ECZ's composition page, how many members make up the Commission at most besides the Chairperson and Vice-Chairperson?",
+    "optionA": "Not more than three other members",
+    "optionB": "Not more than five other members",
+    "optionC": "Exactly seven other members",
+    "optionD": "Exactly ten other members",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 182,
+    "category": "Politics & Government",
+    "questionText": "Who appoints ECZ Commissioners, subject to ratification by the National Assembly?",
+    "optionA": "The President",
+    "optionB": "The Speaker",
+    "optionC": "The Chief Electoral Officer",
+    "optionD": "The Minister of Justice",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 183,
+    "category": "Politics & Government",
+    "questionText": "What is the role of the Chief Electoral Officer in relation to the Commission?",
+    "optionA": "Chief Executive Officer who participates in meetings without a vote",
+    "optionB": "Chairperson with a casting vote",
+    "optionC": "Permanent vice-chairperson",
+    "optionD": "Government Chief Whip of ECZ",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 184,
+    "category": "Politics & Government",
+    "questionText": "How many ECZ Commissioners form a quorum according to the composition page?",
+    "optionA": "Two",
+    "optionB": "Three",
+    "optionC": "Four",
+    "optionD": "Five",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 185,
+    "category": "Politics & Government",
+    "questionText": "Who has the casting vote in case of a tie in ECZ Commission meetings?",
+    "optionA": "Chief Electoral Officer",
+    "optionB": "Vice-Chairperson",
+    "optionC": "Chairperson",
+    "optionD": "Minister of Justice",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 186,
+    "category": "Politics & Government",
+    "questionText": "Which of the following is one of the three ECZ Commission committees named on the composition page?",
+    "optionA": "Elections and Voter Education Committee",
+    "optionB": "Cabinet Affairs Committee",
+    "optionC": "Judicial Service Committee",
+    "optionD": "Provincial Affairs Committee",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 187,
+    "category": "Politics & Government",
+    "questionText": "Which of the following is another ECZ Commission committee?",
+    "optionA": "Finance Committee",
+    "optionB": "Chiefs Affairs Committee",
+    "optionC": "Defence Committee",
+    "optionD": "Budget Office Committee",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 188,
+    "category": "Politics & Government",
+    "questionText": "Which of the following is also listed among ECZ's legislation-created committees?",
+    "optionA": "Procurement Committee",
+    "optionB": "Agriculture Committee",
+    "optionC": "Science Committee",
+    "optionD": "Mines Committee",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 189,
+    "category": "Politics & Government",
+    "questionText": "How many departments does ECZ say it has?",
+    "optionA": "Five",
+    "optionB": "Eight",
+    "optionC": "Ten",
+    "optionD": "Twelve",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 190,
+    "category": "Politics & Government",
+    "questionText": "Which of these is one of ECZ's departments?",
+    "optionA": "Electoral Operations",
+    "optionB": "Tourism Promotion",
+    "optionC": "Cabinet Affairs",
+    "optionD": "National Parks",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 191,
+    "category": "Politics & Government",
+    "questionText": "Which of these is also one of ECZ's departments?",
+    "optionA": "Information and Communication Technology",
+    "optionB": "Foreign Missions",
+    "optionC": "Parliamentary Budget Office",
+    "optionD": "Chiefs and Traditional Affairs",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 192,
+    "category": "Politics & Government",
+    "questionText": "Which of these is another ECZ department?",
+    "optionA": "Legal",
+    "optionB": "Wildlife",
+    "optionC": "National Guidance",
+    "optionD": "Lands",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 193,
+    "category": "Politics & Government",
+    "questionText": "What does the National Voter Education Committee (NVEC) advise on according to ECZ?",
+    "optionA": "Design and dissemination of civic and voter information",
+    "optionB": "Appointment of ministers",
+    "optionC": "Judicial appeals",
+    "optionD": "Mining licences",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 194,
+    "category": "Politics & Government",
+    "questionText": "Who appoints the Chairperson of the National Voter Education Committee according to ECZ?",
+    "optionA": "The Commission",
+    "optionB": "The Speaker",
+    "optionC": "The Cabinet Office",
+    "optionD": "The Vice-President",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 195,
+    "category": "Politics & Government",
+    "questionText": "Who elects the Vice-Chairperson of the National Voter Education Committee?",
+    "optionA": "NVEC members",
+    "optionB": "The President",
+    "optionC": "The Judiciary",
+    "optionD": "Party secretaries",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 196,
+    "category": "Politics & Government",
+    "questionText": "According to ECZ's voter education page, voter education should help citizens do what?",
+    "optionA": "Participate meaningfully in the electoral process",
+    "optionB": "Avoid all public issues",
+    "optionC": "Choose candidates for parties",
+    "optionD": "Replace constituency offices",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 197,
+    "category": "Politics & Government",
+    "questionText": "Which of these topics is explicitly listed under ECZ voter education?",
+    "optionA": "Inspection of the register of voters",
+    "optionB": "Selection of Cabinet ministers",
+    "optionC": "Drafting the national budget",
+    "optionD": "Judicial appointments",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 198,
+    "category": "Politics & Government",
+    "questionText": "At the time of the 2022 Census, how many constituencies did Zambia have?",
+    "optionA": "150",
+    "optionB": "156",
+    "optionC": "167",
+    "optionD": "185",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 199,
+    "category": "Politics & Government",
+    "questionText": "At the time of the 2022 Census, how many wards did Zambia have?",
+    "optionA": "1430",
+    "optionB": "1560",
+    "optionC": "1858",
+    "optionD": "2156",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 200,
+    "category": "Politics & Government",
+    "questionText": "In June 2024, ECZ announced the realignment of boundaries between which two districts?",
+    "optionA": "Chitambo and Serenje",
+    "optionB": "Monze and Mazabuka",
+    "optionC": "Choma and Kalomo",
+    "optionD": "Kasama and Mbala",
+    "correctAnswer": "A"
+  }
+]

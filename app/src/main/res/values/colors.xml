@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Light Theme Palette -->
+    <color name="lt_primary">#2563EB</color>
+    <color name="lt_primary_variant">#1D4ED8</color>
+    <color name="lt_secondary">#E53935</color>
+    <color name="lt_accent">#F4B400</color>
+    <color name="lt_background">#F6F8FC</color>
+    <color name="lt_surface">#FFFFFF</color>
+    <color name="lt_text_primary">#111827</color>
+    <color name="lt_text_secondary">#3276DE</color>
+
+    <!-- Dark Theme Palette -->
+    <color name="dk_primary">#0288D1</color>
+    <color name="dk_primary_variant">#01579B</color>
+    <color name="dk_secondary">#F57C00</color>
+    <color name="dk_accent">#FFD54F</color>
+    <color name="dk_background">#0D1117</color>
+    <color name="dk_surface">#161B22</color>
+    <color name="dk_text_primary">#FFFFFF</color>
+    <color name="dk_text_secondary">#8B949E</color>
+
+    <!-- Semantic Aliases for XML Layouts (Default to Light) -->
+    <color name="dark_bg">@color/lt_background</color>
+    <color name="card_background">@color/lt_surface</color>
+    <color name="surface_dark">@color/lt_surface</color>
+    <color name="card_border">#D8DEE9</color>
+    <color name="gold_accent">@color/lt_accent</color>
+    <color name="red_accent">@color/lt_secondary</color>
+    <color name="text_primary">@color/lt_text_primary</color>
+    <color name="text_secondary">@color/lt_text_secondary</color>
+
+    <!-- Navigation/Theme Compatibility Names -->
+    <color name="primary">@color/lt_primary</color>
+    <color name="primary_variant">@color/lt_primary_variant</color>
+    <color name="secondary">@color/lt_secondary</color>
+    <color name="background">@color/lt_background</color>
+    <color name="surface">@color/lt_surface</color>
+
+    <color name="dark_primary">@color/dk_primary</color>
+    <color name="dark_primary_variant">@color/dk_primary_variant</color>
+    <color name="dark_secondary">@color/dk_secondary</color>
+    <color name="dark_background">@color/dk_background</color>
+    <color name="dark_surface">@color/dk_surface</color>
+
+    <!-- State/Feedback Colors -->
+    <color name="correct_bg">#C8E6C9</color>
+    <color name="correct_text">#2E7D32</color>
+    <color name="wrong_bg">#FFCDD2</color>
+    <color name="wrong_text">#C62828</color>
+
+    <!-- Legacy Compatibility -->
+    <color name="green_primary">#1D3D1F</color>
+    <color name="green_dark">#0E2010</color>
+    <color name="orange_accent">#FB8C00</color>
+</resources>

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 501,
+    "category": "National Symbols",
+    "questionText": "According to Zambia's Constitution, which of these is one of the country's national symbols?",
+    "optionA": "National Motto",
+    "optionB": "Cabinet Agenda",
+    "optionC": "National Budget",
+    "optionD": "Constituency Register",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 502,
+    "category": "National Symbols",
+    "questionText": "Which set of items is identified in Zambia's Constitution and parliamentary debate as national symbols?",
+    "optionA": "Flag, Coat of Arms, National Anthem, Public Seal and National Motto",
+    "optionB": "Flag, Currency, Parliament, Cabinet and Army",
+    "optionC": "Flag, Cabinet, Courts, Police and Census",
+    "optionD": "Flag, Provinces, Districts, Courts and Cabinet",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 503,
+    "category": "National Symbols",
+    "questionText": "Which institution's 2025 debate record explicitly listed the National Flag, the Coat of Arms, the National Anthem, the National Motto and the Public Seal as national symbols?",
+    "optionA": "National Assembly of Zambia",
+    "optionB": "Bank of Zambia",
+    "optionC": "Electoral Commission of Zambia",
+    "optionD": "Road Development Agency",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 504,
+    "category": "National Symbols",
+    "questionText": "What is Zambia's national motto?",
+    "optionA": "One Zambia, One Nation",
+    "optionB": "Peace, Work and Freedom",
+    "optionC": "One People, One Flag",
+    "optionD": "Unity Through Progress",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 505,
+    "category": "National Symbols",
+    "questionText": "Who is credited by State House and parliamentary debates with introducing the motto 'One Zambia, One Nation'?",
+    "optionA": "Hakainde Hichilema",
+    "optionB": "Kenneth Kaunda",
+    "optionC": "Levy Mwanawasa",
+    "optionD": "Frederick Chiluba",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 506,
+    "category": "National Symbols",
+    "questionText": "In what year was the motto 'One Zambia, One Nation' adopted?",
+    "optionA": "1960",
+    "optionB": "1964",
+    "optionC": "1973",
+    "optionD": "1991",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 507,
+    "category": "National Symbols",
+    "questionText": "On which Zambian national symbol is the motto 'One Zambia, One Nation' most directly inscribed?",
+    "optionA": "The Coat of Arms",
+    "optionB": "The National Flag",
+    "optionC": "The Public Seal only",
+    "optionD": "The National Anthem sheet",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 508,
+    "category": "National Symbols",
+    "questionText": "According to State House, what broad idea does the motto 'One Zambia, One Nation' promote?",
+    "optionA": "National unity",
+    "optionB": "Provincial rivalry",
+    "optionC": "Party competition only",
+    "optionD": "Regional separation",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 509,
+    "category": "National Symbols",
+    "questionText": "Which word completes Zambia's national motto: 'One Zambia, One ____'?",
+    "optionA": "People",
+    "optionB": "Nation",
+    "optionC": "Flag",
+    "optionD": "Republic",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 510,
+    "category": "National Symbols",
+    "questionText": "Which of the following is NOT part of Zambia's national motto?",
+    "optionA": "Unity",
+    "optionB": "Zambia",
+    "optionC": "Nation",
+    "optionD": "Prosperity",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 511,
+    "category": "National Symbols",
+    "questionText": "What is the title of Zambia's national anthem?",
+    "optionA": "Nkosi Sikelel' iAfrika",
+    "optionB": "Stand and Sing of Zambia, Proud and Free",
+    "optionC": "One Zambia, One Nation",
+    "optionD": "God Save the Queen",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 512,
+    "category": "National Symbols",
+    "questionText": "Which line begins Zambia's national anthem according to Cabinet Office and Zambia Tourism?",
+    "optionA": "Land of work and joy in unity",
+    "optionB": "Stand and sing of Zambia, proud and free",
+    "optionC": "Praise to God, bless our great nation",
+    "optionD": "Africa is our motherland",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 513,
+    "category": "National Symbols",
+    "questionText": "In which year did the National Assembly pass the National Anthem Act that legally defined 'Stand and Sing of Zambia, Proud and Free'?",
+    "optionA": "1964",
+    "optionB": "1965",
+    "optionC": "1973",
+    "optionD": "1996",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 514,
+    "category": "National Symbols",
+    "questionText": "Before 1973, Zambia used the melody of which song as its national anthem?",
+    "optionA": "God Save the Queen",
+    "optionB": "Nkosi Sikelel' iAfrika",
+    "optionC": "Shosholoza",
+    "optionD": "Zambia Praise to Thee",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 515,
+    "category": "National Symbols",
+    "questionText": "Who composed the tune on which Zambia's current national anthem is based?",
+    "optionA": "Enoch Sontonga",
+    "optionB": "Kenneth Kaunda",
+    "optionC": "Gabriel Ellison",
+    "optionD": "R.J. Seal",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 516,
+    "category": "National Symbols",
+    "questionText": "In what year was the melody of 'Nkosi Sikelel' iAfrika' composed?",
+    "optionA": "1897",
+    "optionB": "1923",
+    "optionC": "1964",
+    "optionD": "1973",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 517,
+    "category": "National Symbols",
+    "questionText": "Which statement best describes Zambia's anthem after 1973?",
+    "optionA": "New lyrics were set to the old melody",
+    "optionB": "Both melody and title were discarded",
+    "optionC": "Only the chorus changed",
+    "optionD": "It was replaced by a military march",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 518,
+    "category": "National Symbols",
+    "questionText": "Which short refrain is repeated through Zambia's anthem according to Zambia Tourism's text?",
+    "optionA": "All one, strong and free",
+    "optionB": "One Zambia, One Nation",
+    "optionC": "Rise above all problems",
+    "optionD": "Land of joy forever",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 519,
+    "category": "National Symbols",
+    "questionText": "Which phrase appears in the anthem's final section according to Zambia Tourism?",
+    "optionA": "Under the flag of our land",
+    "optionB": "Over the shield of our land",
+    "optionC": "Around the drums of our land",
+    "optionD": "Within the courts of our land",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 520,
+    "category": "National Symbols",
+    "questionText": "Which of the following is NOT the title of Zambia's current national anthem?",
+    "optionA": "Stand and Sing of Zambia, Proud and Free",
+    "optionB": "Nkosi Sikelel' iAfrika",
+    "optionC": "Stand and Sing of Zambia",
+    "optionD": "Zambia, Praise to Thee",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 521,
+    "category": "National Symbols",
+    "questionText": "How many credited lyric contributors are listed for Zambia's national anthem on the commonly cited history summary?",
+    "optionA": "Three",
+    "optionB": "Four",
+    "optionC": "Six",
+    "optionD": "Seven",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 522,
+    "category": "National Symbols",
+    "questionText": "Which of the following is one of the credited contributors to the lyrics of Zambia's national anthem?",
+    "optionA": "G. Ellis",
+    "optionB": "Enoch Sontonga",
+    "optionC": "David Kaunda",
+    "optionD": "Gabriel Ellison",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 523,
+    "category": "National Symbols",
+    "questionText": "Which of the following is one of the credited contributors to the lyrics of Zambia's national anthem?",
+    "optionA": "E.S. Musonda",
+    "optionB": "Mulaza Kaira",
+    "optionC": "Mumba Malila",
+    "optionD": "Moses Moyo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 524,
+    "category": "National Symbols",
+    "questionText": "Which of the following is one of the credited contributors to the lyrics of Zambia's national anthem?",
+    "optionA": "J.M.S. Lichilana",
+    "optionB": "Gabriel Ellison",
+    "optionC": "Enock Kavindele",
+    "optionD": "Arthur Wina",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 525,
+    "category": "National Symbols",
+    "questionText": "Which of the following is one of the credited contributors to the lyrics of Zambia's national anthem?",
+    "optionA": "I. Lowe",
+    "optionB": "E. Sontonga",
+    "optionC": "D. Kaunda",
+    "optionD": "R. Banda",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 526,
+    "category": "National Symbols",
+    "questionText": "Which of the following is one of the credited contributors to the lyrics of Zambia's national anthem?",
+    "optionA": "J. Sajiwandani",
+    "optionB": "Gabriel Ryan",
+    "optionC": "M. Mutti",
+    "optionD": "R. Chabinga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 527,
+    "category": "National Symbols",
+    "questionText": "Which of the following is one of the credited contributors to the lyrics of Zambia's national anthem?",
+    "optionA": "R.J. Seal",
+    "optionB": "E. Musonda",
+    "optionC": "J. Kaunda",
+    "optionD": "A. Haimbe",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 528,
+    "category": "National Symbols",
+    "questionText": "Which person is linked to the melody of the anthem rather than the later Zambia-specific lyrics?",
+    "optionA": "Enoch Sontonga",
+    "optionB": "E.S. Musonda",
+    "optionC": "J.M.S. Lichilana",
+    "optionD": "I. Lowe",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 529,
+    "category": "National Symbols",
+    "questionText": "Which of these is most accurate about Zambia's anthem in 1964?",
+    "optionA": "Zambia used the tune of Nkosi Sikelel' iAfrika",
+    "optionB": "Zambia immediately adopted entirely new lyrics and melody",
+    "optionC": "Zambia used no anthem at all",
+    "optionD": "Zambia kept God Save the Queen until 1991",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 530,
+    "category": "National Symbols",
+    "questionText": "Which institution is named in the 1973 history summary as having passed the National Anthem Act?",
+    "optionA": "The National Assembly",
+    "optionB": "The Cabinet Office",
+    "optionC": "The Supreme Court",
+    "optionD": "The Electoral Commission",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 531,
+    "category": "National Symbols",
+    "questionText": "When was the Zambian flag first hoisted according to the Zambian Embassy and Zambia Tourism pages?",
+    "optionA": "Midnight on 23 October 1964",
+    "optionB": "Midday on 24 October 1964",
+    "optionC": "1 January 1964",
+    "optionD": "24 October 1973",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 532,
+    "category": "National Symbols",
+    "questionText": "In what year was Zambia's current national flag adopted?",
+    "optionA": "1960",
+    "optionB": "1964",
+    "optionC": "1965",
+    "optionD": "1973",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 533,
+    "category": "National Symbols",
+    "questionText": "Which Zambian artist is widely credited with designing or assisting in designing the national flag?",
+    "optionA": "Gabriel Ellison",
+    "optionB": "Miriam Mukape",
+    "optionC": "Clementina Mulenga",
+    "optionD": "Enoch Sontonga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 534,
+    "category": "National Symbols",
+    "questionText": "Which colour forms the main field of the Zambian flag?",
+    "optionA": "Red",
+    "optionB": "Black",
+    "optionC": "Green",
+    "optionD": "Orange",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 535,
+    "category": "National Symbols",
+    "questionText": "Which bird appears in flight on Zambia's flag?",
+    "optionA": "African fish eagle",
+    "optionB": "Secretary bird",
+    "optionC": "Crowned crane",
+    "optionD": "Ostrich",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 536,
+    "category": "National Symbols",
+    "questionText": "At the fly end of Zambia's flag, which three colours appear in the vertical stripes from left to right?",
+    "optionA": "Red, black, orange",
+    "optionB": "Black, red, orange",
+    "optionC": "Orange, black, red",
+    "optionD": "Red, orange, black",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 537,
+    "category": "National Symbols",
+    "questionText": "What does the red on Zambia's flag represent?",
+    "optionA": "The people of Zambia",
+    "optionB": "The struggle for freedom",
+    "optionC": "Mineral wealth",
+    "optionD": "Wildlife and natural environment",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 538,
+    "category": "National Symbols",
+    "questionText": "What does the black on Zambia's flag represent?",
+    "optionA": "The people of Zambia",
+    "optionB": "The struggle for freedom",
+    "optionC": "Mineral wealth",
+    "optionD": "Wildlife and natural environment",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 539,
+    "category": "National Symbols",
+    "questionText": "What does the orange on Zambia's flag represent?",
+    "optionA": "The struggle for freedom",
+    "optionB": "The country's mineral wealth",
+    "optionC": "The people of Zambia",
+    "optionD": "Unity in diversity",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 540,
+    "category": "National Symbols",
+    "questionText": "What does the green on Zambia's flag represent according to the Embassy page?",
+    "optionA": "Agriculture only",
+    "optionB": "The natural resources",
+    "optionC": "The army",
+    "optionD": "The Constitution",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 541,
+    "category": "National Symbols",
+    "questionText": "What does the green on Zambia's flag represent according to Zambia Tourism's facts page?",
+    "optionA": "The wildlife and natural environment",
+    "optionB": "Only agriculture",
+    "optionC": "Only forests",
+    "optionD": "The National Assembly",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 542,
+    "category": "National Symbols",
+    "questionText": "What does the eagle in flight on Zambia's flag symbolize?",
+    "optionA": "Freedom and the ability to rise above problems",
+    "optionB": "Colonial rule",
+    "optionC": "Only wildlife conservation",
+    "optionD": "The mining industry alone",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 543,
+    "category": "National Symbols",
+    "questionText": "Which of these correctly matches a flag colour with its meaning?",
+    "optionA": "Red - struggle for freedom",
+    "optionB": "Black - mineral wealth",
+    "optionC": "Orange - the people of Zambia",
+    "optionD": "Green - the courts",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 544,
+    "category": "National Symbols",
+    "questionText": "Which of these correctly matches a flag colour with its meaning?",
+    "optionA": "Black - the people of Zambia",
+    "optionB": "Red - wildlife and environment",
+    "optionC": "Orange - struggle for freedom",
+    "optionD": "Green - mineral wealth",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 545,
+    "category": "National Symbols",
+    "questionText": "Which of these correctly matches a flag colour with its meaning?",
+    "optionA": "Orange - mineral wealth",
+    "optionB": "Black - natural resources",
+    "optionC": "Green - struggle for freedom",
+    "optionD": "Red - the people of Zambia",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 546,
+    "category": "National Symbols",
+    "questionText": "Which of these correctly matches a flag colour with its meaning?",
+    "optionA": "Green - natural resources or wildlife/environment",
+    "optionB": "Green - people of Zambia",
+    "optionC": "Green - mineral wealth",
+    "optionD": "Green - freedom struggle",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 547,
+    "category": "National Symbols",
+    "questionText": "According to Britannica, what is the width-to-length ratio of Zambia's flag?",
+    "optionA": "1:2",
+    "optionB": "2:3",
+    "optionC": "3:5",
+    "optionD": "1:1",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 548,
+    "category": "National Symbols",
+    "questionText": "Which side of the Zambian flag carries the coloured stripes and eagle?",
+    "optionA": "At the fly end",
+    "optionB": "At the hoist only",
+    "optionC": "At the centre only",
+    "optionD": "In the top-left canton",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 549,
+    "category": "National Symbols",
+    "questionText": "Which of the following is NOT one of the colours on the Zambian flag?",
+    "optionA": "Blue",
+    "optionB": "Green",
+    "optionC": "Black",
+    "optionD": "Orange",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 550,
+    "category": "National Symbols",
+    "questionText": "Which statement about Zambia's flag is correct?",
+    "optionA": "It was first raised at midnight before Independence Day",
+    "optionB": "It was adopted in 1973 with the anthem",
+    "optionC": "It has horizontal stripes only",
+    "optionD": "It carries no bird symbol",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 551,
+    "category": "National Symbols",
+    "questionText": "When was Zambia's Coat of Arms adopted?",
+    "optionA": "24 October 1964",
+    "optionB": "23 October 1964",
+    "optionC": "14 September 1973",
+    "optionD": "4 June 1965",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 552,
+    "category": "National Symbols",
+    "questionText": "According to State House, the Coat of Arms of Zambia was adapted from the arms of which former territory?",
+    "optionA": "Nyasaland",
+    "optionB": "Northern Rhodesia",
+    "optionC": "Southern Rhodesia",
+    "optionD": "Tanganyika",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 553,
+    "category": "National Symbols",
+    "questionText": "Which bird appears at the top of Zambia's Coat of Arms?",
+    "optionA": "African fish eagle",
+    "optionB": "Secretary bird",
+    "optionC": "Crowned eagle",
+    "optionD": "Hornbill",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 554,
+    "category": "National Symbols",
+    "questionText": "What two tools appear crossed beneath the eagle on Zambia's Coat of Arms?",
+    "optionA": "Hoe and pickaxe",
+    "optionB": "Spear and shield",
+    "optionC": "Axe and spade",
+    "optionD": "Hammer and sickle",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 555,
+    "category": "National Symbols",
+    "questionText": "What do the crossed hoe and pickaxe on Zambia's Coat of Arms represent?",
+    "optionA": "Agriculture and mining",
+    "optionB": "Defence and justice",
+    "optionC": "Education and health",
+    "optionD": "Tourism and transport",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 556,
+    "category": "National Symbols",
+    "questionText": "What natural feature is depicted on the shield of Zambia's Coat of Arms?",
+    "optionA": "Lake Tanganyika",
+    "optionB": "Victoria Falls",
+    "optionC": "Lake Kariba",
+    "optionD": "Batoka Gorge",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 557,
+    "category": "National Symbols",
+    "questionText": "What do the black and white wavy lines on the shield of Zambia's Coat of Arms represent?",
+    "optionA": "Victoria Falls water over black rock",
+    "optionB": "Roads across the plateau",
+    "optionC": "Zebra stripes only",
+    "optionD": "The national flag colours",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 558,
+    "category": "National Symbols",
+    "questionText": "According to State House and Zambia Tourism, what does the shield on the Coat of Arms symbolize more broadly besides the falls themselves?",
+    "optionA": "The Zambezi River, from which Zambia takes its name",
+    "optionB": "The Luangwa Valley only",
+    "optionC": "The Kafue Flats only",
+    "optionD": "Lake Mweru only",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 559,
+    "category": "National Symbols",
+    "questionText": "Who supports the shield on Zambia's Coat of Arms?",
+    "optionA": "A man and a woman",
+    "optionB": "Two lions",
+    "optionC": "Two zebras",
+    "optionD": "A fish eagle and a lion",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 560,
+    "category": "National Symbols",
+    "questionText": "What do the man and woman supporting the shield on Zambia's Coat of Arms represent?",
+    "optionA": "The common man and woman of the nation",
+    "optionB": "Only chiefs and royalty",
+    "optionC": "Miners and tourists only",
+    "optionD": "Parliament and Cabinet",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 561,
+    "category": "National Symbols",
+    "questionText": "Which animal appears at the base of Zambia's Coat of Arms?",
+    "optionA": "Zebra",
+    "optionB": "Lion",
+    "optionC": "Leopard",
+    "optionD": "Buffalo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 562,
+    "category": "National Symbols",
+    "questionText": "Which agricultural symbol appears at the base of Zambia's Coat of Arms?",
+    "optionA": "Maize cob",
+    "optionB": "Cotton boll",
+    "optionC": "Cassava root",
+    "optionD": "Groundnut pod",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 563,
+    "category": "National Symbols",
+    "questionText": "Which mining-related feature appears at the base of Zambia's Coat of Arms?",
+    "optionA": "Mine shaft",
+    "optionB": "Copper ingot",
+    "optionC": "Coal truck",
+    "optionD": "Smelter chimney",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 564,
+    "category": "National Symbols",
+    "questionText": "According to Wikipedia's coat of arms summary, what was the eagle in the earlier Northern Rhodesia arms shown holding?",
+    "optionA": "A spear",
+    "optionB": "A fish",
+    "optionC": "A shield",
+    "optionD": "A maize cob",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 565,
+    "category": "National Symbols",
+    "questionText": "What broad economic backbone do the hoe and pickaxe represent on Zambia's Coat of Arms?",
+    "optionA": "Agriculture and mining",
+    "optionB": "Manufacturing and tourism",
+    "optionC": "Trade and transport",
+    "optionD": "Education and health",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 566,
+    "category": "National Symbols",
+    "questionText": "Which of the following is NOT described as part of Zambia's Coat of Arms base section?",
+    "optionA": "Mine shaft",
+    "optionB": "Maize cob",
+    "optionC": "Zebra",
+    "optionD": "Crocodile",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 567,
+    "category": "National Symbols",
+    "questionText": "Which phrase best matches the meaning of the fish eagle on the Coat of Arms according to the State House/Wikipedia summaries?",
+    "optionA": "Conquest of freedom and hope for the future",
+    "optionB": "Only birdlife conservation",
+    "optionC": "The power of Parliament",
+    "optionD": "The rise of city life",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 568,
+    "category": "National Symbols",
+    "questionText": "Which statement best describes Zambia's Coat of Arms?",
+    "optionA": "It combines freedom, natural resources, agriculture, mining and unity",
+    "optionB": "It shows only one river and no people",
+    "optionC": "It is identical to the current flag",
+    "optionD": "It contains no motto",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 569,
+    "category": "National Symbols",
+    "questionText": "Which of the following is NOT one of the key symbolic themes in Zambia's Coat of Arms?",
+    "optionA": "Mining",
+    "optionB": "Agriculture",
+    "optionC": "Wildlife",
+    "optionD": "Ocean trade",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 570,
+    "category": "National Symbols",
+    "questionText": "The compartment/base of the Coat of Arms includes symbols of what?",
+    "optionA": "Minerals, agriculture and wildlife",
+    "optionB": "Judiciary, legislature and executive",
+    "optionC": "Schools, hospitals and airports",
+    "optionD": "Roads, bridges and railways",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 571,
+    "category": "National Symbols",
+    "questionText": "According to Zambia Tourism's facts page, what is Zambia's national bird?",
+    "optionA": "African fish eagle",
+    "optionB": "Crowned crane",
+    "optionC": "Secretary bird",
+    "optionD": "Pelican",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 572,
+    "category": "National Symbols",
+    "questionText": "What scientific name is given on Zambia Tourism's facts page for Zambia's national bird?",
+    "optionA": "Aquila rapax",
+    "optionB": "Haliaeetus vocifer",
+    "optionC": "Balearica regulorum",
+    "optionD": "Buteo augur",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 573,
+    "category": "National Symbols",
+    "questionText": "According to Zambia Tourism's facts page, what is Zambia's national flower?",
+    "optionA": "Bougainvillea",
+    "optionB": "Rose",
+    "optionC": "Lily",
+    "optionD": "Jacaranda",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 574,
+    "category": "National Symbols",
+    "questionText": "According to Zambia Tourism's facts page, what is Zambia's national game?",
+    "optionA": "Football / soccer",
+    "optionB": "Netball",
+    "optionC": "Boxing",
+    "optionD": "Athletics",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 575,
+    "category": "National Symbols",
+    "questionText": "Which national symbol is shared as both Zambia's national bird and the bird on the flag/coat of arms?",
+    "optionA": "African fish eagle",
+    "optionB": "Secretary bird",
+    "optionC": "Peregrine falcon",
+    "optionD": "Crowned crane",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 576,
+    "category": "National Symbols",
+    "questionText": "Which of the following is NOT listed by Zambia Tourism as a national fact/symbol?",
+    "optionA": "African fish eagle",
+    "optionB": "Bougainvillea",
+    "optionC": "Football / soccer",
+    "optionD": "Mukwa tree",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 577,
+    "category": "National Symbols",
+    "questionText": "Which of these best matches Zambia Tourism's national facts entry?",
+    "optionA": "National flower - Bougainvillea",
+    "optionB": "National flower - Protea",
+    "optionC": "National flower - Acacia",
+    "optionD": "National flower - Hibiscus",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 578,
+    "category": "National Symbols",
+    "questionText": "Which of these best matches Zambia Tourism's national facts entry?",
+    "optionA": "National game - Football / soccer",
+    "optionB": "National game - Rugby",
+    "optionC": "National game - Basketball",
+    "optionD": "National game - Cricket",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 579,
+    "category": "National Symbols",
+    "questionText": "Which of these best matches Zambia Tourism's national facts entry?",
+    "optionA": "National bird - African fish eagle",
+    "optionB": "National bird - Ostrich",
+    "optionC": "National bird - Hornbill",
+    "optionD": "National bird - Dove",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 580,
+    "category": "National Symbols",
+    "questionText": "Which of these best matches Zambia Tourism's national facts entry?",
+    "optionA": "Official language - English",
+    "optionB": "Official language - Bemba",
+    "optionC": "Official language - Nyanja",
+    "optionD": "Official language - Tonga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 581,
+    "category": "National Symbols",
+    "questionText": "Which public holiday is celebrated on 24 October according to Zambia Tourism's facts page?",
+    "optionA": "Unity Day",
+    "optionB": "Independence Day",
+    "optionC": "Africa Freedom Day",
+    "optionD": "Youth Day",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 582,
+    "category": "National Symbols",
+    "questionText": "Which public holiday is celebrated on 25 May according to Zambia Tourism's facts page?",
+    "optionA": "Labour Day",
+    "optionB": "Africa Freedom Day",
+    "optionC": "Heroes' Day",
+    "optionD": "Farmers' Day",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 583,
+    "category": "National Symbols",
+    "questionText": "Which public holiday is celebrated on 12 March according to Zambia Tourism's facts page?",
+    "optionA": "Youth Day",
+    "optionB": "Heroes' Day",
+    "optionC": "Unity Day",
+    "optionD": "Farmers' Day",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 584,
+    "category": "National Symbols",
+    "questionText": "Which public holiday falls on the first Monday of July according to Zambia Tourism's facts page?",
+    "optionA": "Unity Day",
+    "optionB": "Heroes' Day",
+    "optionC": "Farmers' Day",
+    "optionD": "National Day of Prayer",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 585,
+    "category": "National Symbols",
+    "questionText": "Which public holiday falls on the first Tuesday of July according to Zambia Tourism's facts page?",
+    "optionA": "Heroes' Day",
+    "optionB": "Youth Day",
+    "optionC": "Unity Day",
+    "optionD": "Independence Day",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 586,
+    "category": "National Symbols",
+    "questionText": "Which public holiday falls on the first Monday of August according to Zambia Tourism's facts page?",
+    "optionA": "Farmers' Day",
+    "optionB": "Labour Day",
+    "optionC": "Youth Day",
+    "optionD": "Heroes' Day",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 587,
+    "category": "National Symbols",
+    "questionText": "Which public holiday is celebrated on 1 May according to Zambia Tourism's facts page?",
+    "optionA": "Youth Day",
+    "optionB": "Labour Day",
+    "optionC": "New Year's Day",
+    "optionD": "Africa Freedom Day",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 588,
+    "category": "National Symbols",
+    "questionText": "Which public holiday is celebrated on 1 January according to Zambia Tourism's facts page?",
+    "optionA": "Labour Day",
+    "optionB": "Youth Day",
+    "optionC": "New Year's Day",
+    "optionD": "Christmas Day",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 589,
+    "category": "National Symbols",
+    "questionText": "Which public holiday is celebrated on 25 December according to Zambia Tourism's facts page?",
+    "optionA": "Christmas Day",
+    "optionB": "Independence Day",
+    "optionC": "Unity Day",
+    "optionD": "Africa Freedom Day",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 590,
+    "category": "National Symbols",
+    "questionText": "Which of the following is NOT listed among Zambia Tourism's public holidays?",
+    "optionA": "Holy Saturday",
+    "optionB": "Easter Monday",
+    "optionC": "National Science Day",
+    "optionD": "Good Friday",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 591,
+    "category": "National Symbols",
+    "questionText": "Which Act prescribes Zambia's national anthem in law?",
+    "optionA": "National Flag and Armorial Ensigns Act",
+    "optionB": "National Anthem Act",
+    "optionC": "Public Seal Act",
+    "optionD": "Citizenship Act",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 592,
+    "category": "National Symbols",
+    "questionText": "Which Act declares the National Flag, the President's Standard and the Armorial Ensigns?",
+    "optionA": "National Flag and Armorial Ensigns Act",
+    "optionB": "National Anthem Act",
+    "optionC": "Public Seal Act",
+    "optionD": "Constitutional Court Act",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 593,
+    "category": "National Symbols",
+    "questionText": "Which Act prescribes the Public Seal of the Republic?",
+    "optionA": "National Anthem Act",
+    "optionB": "Public Seal Act",
+    "optionC": "National Flag and Armorial Ensigns Act",
+    "optionD": "Electoral Process Act",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 594,
+    "category": "National Symbols",
+    "questionText": "According to the National Flag and Armorial Ensigns Act, insulting which items can constitute an offence?",
+    "optionA": "The National Flag, President's Standard or Armorial Ensigns",
+    "optionB": "Only the National Anthem",
+    "optionC": "Only public holidays",
+    "optionD": "Only the motto",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 595,
+    "category": "National Symbols",
+    "questionText": "Which item is declared alongside the national flag in the National Flag and Armorial Ensigns Act but is not usually the first one people mention?",
+    "optionA": "President's Standard",
+    "optionB": "National Game",
+    "optionC": "National Bird",
+    "optionD": "National Language",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 596,
+    "category": "National Symbols",
+    "questionText": "Which of the following is part of Zambia's legally recognised symbol framework but is not part of the flag itself?",
+    "optionA": "Public Seal",
+    "optionB": "Red stripe",
+    "optionC": "Orange eagle",
+    "optionD": "Green field",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 597,
+    "category": "National Symbols",
+    "questionText": "Which of the following is NOT a legally named symbol type in the Constitution's national-symbols clause?",
+    "optionA": "National Emblem",
+    "optionB": "National Anthem",
+    "optionC": "National Flag",
+    "optionD": "National Currency",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 598,
+    "category": "National Symbols",
+    "questionText": "In constitutional language, Zambia's national emblem most directly corresponds to which visible symbol?",
+    "optionA": "Coat of Arms",
+    "optionB": "National anthem",
+    "optionC": "Flag ratio",
+    "optionD": "Public holiday calendar",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 599,
+    "category": "National Symbols",
+    "questionText": "Which of these best summarizes Zambia's national symbols as a system?",
+    "optionA": "They express identity, unity, freedom and statehood",
+    "optionB": "They exist only for sports events",
+    "optionC": "They are used only by Parliament",
+    "optionD": "They change every election year",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 600,
+    "category": "National Symbols",
+    "questionText": "Which statement is most accurate about Zambia's national symbols?",
+    "optionA": "They include both visible emblems and formal state identifiers like the anthem and public seal",
+    "optionB": "They are limited to the flag alone",
+    "optionC": "They are only cultural ceremonies",
+    "optionD": "They refer only to public holidays",
+    "correctAnswer": "A"
+  }
+]

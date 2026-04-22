@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "category": "Geography",
+    "questionText": "What is the capital city of Zambia?",
+    "optionA": "Ndola",
+    "optionB": "Lusaka",
+    "optionC": "Kitwe",
+    "optionD": "Livingstone",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "category": "Geography",
+    "questionText": "Which city is the provincial capital of Copperbelt Province?",
+    "optionA": "Luanshya",
+    "optionB": "Kitwe",
+    "optionC": "Ndola",
+    "optionD": "Chingola",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 3,
+    "category": "Geography",
+    "questionText": "Which town is the provincial capital of Central Province?",
+    "optionA": "Kapiri Mposhi",
+    "optionB": "Kabwe",
+    "optionC": "Serenje",
+    "optionD": "Mkushi",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "category": "Geography",
+    "questionText": "Which city serves as the provincial capital of Eastern Province?",
+    "optionA": "Petauke",
+    "optionB": "Chipata",
+    "optionC": "Katete",
+    "optionD": "Lundazi",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "category": "Geography",
+    "questionText": "Which town is the provincial capital of Luapula Province?",
+    "optionA": "Samfya",
+    "optionB": "Nchelenge",
+    "optionC": "Mansa",
+    "optionD": "Mwense",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 6,
+    "category": "Geography",
+    "questionText": "Which city is the provincial capital of Muchinga Province?",
+    "optionA": "Mpika",
+    "optionB": "Nakonde",
+    "optionC": "Isoka",
+    "optionD": "Chinsali",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 7,
+    "category": "Geography",
+    "questionText": "Which town is the provincial capital of Northern Province?",
+    "optionA": "Kasama",
+    "optionB": "Mbala",
+    "optionC": "Mpulungu",
+    "optionD": "Mporokoso",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 8,
+    "category": "Geography",
+    "questionText": "Which town is the provincial capital of North-Western Province?",
+    "optionA": "Solwezi",
+    "optionB": "Kabompo",
+    "optionC": "Kasempa",
+    "optionD": "Mwinilunga",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 9,
+    "category": "Geography",
+    "questionText": "Which town is the provincial capital of Southern Province?",
+    "optionA": "Mazabuka",
+    "optionB": "Kalomo",
+    "optionC": "Livingstone",
+    "optionD": "Choma",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 10,
+    "category": "Geography",
+    "questionText": "Which town is the provincial capital of Western Province?",
+    "optionA": "Senanga",
+    "optionB": "Mongu",
+    "optionC": "Sesheke",
+    "optionD": "Sioma",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 11,
+    "category": "Geography",
+    "questionText": "How many provinces does Zambia currently have?",
+    "optionA": "8",
+    "optionB": "9",
+    "optionC": "10",
+    "optionD": "11",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 12,
+    "category": "Geography",
+    "questionText": "At the time of the 2022 Census, how many districts did Zambia have?",
+    "optionA": "105",
+    "optionB": "109",
+    "optionC": "116",
+    "optionD": "128",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "category": "Geography",
+    "questionText": "At the time of the 2022 Census, how many constituencies did Zambia have?",
+    "optionA": "150",
+    "optionB": "156",
+    "optionC": "162",
+    "optionD": "167",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "category": "Geography",
+    "questionText": "Which province is officially described as having six districts?",
+    "optionA": "Lusaka Province",
+    "optionB": "Central Province",
+    "optionC": "Copperbelt Province",
+    "optionD": "Luapula Province",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 15,
+    "category": "Geography",
+    "questionText": "Which province is officially described as having fifteen districts on its provincial administration site?",
+    "optionA": "Southern Province",
+    "optionB": "Lusaka Province",
+    "optionC": "Muchinga Province",
+    "optionD": "Northern Province",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "category": "Geography",
+    "questionText": "Which other province is officially described as having fifteen districts on its provincial administration site?",
+    "optionA": "Northern Province",
+    "optionB": "Eastern Province",
+    "optionC": "Lusaka Province",
+    "optionD": "Muchinga Province",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 17,
+    "category": "Geography",
+    "questionText": "Which province is officially described as having twelve districts?",
+    "optionA": "Northern Province",
+    "optionB": "Lusaka Province",
+    "optionC": "Muchinga Province",
+    "optionD": "Southern Province",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "category": "Geography",
+    "questionText": "Which province is officially described as having nine districts?",
+    "optionA": "Eastern Province",
+    "optionB": "Western Province",
+    "optionC": "Muchinga Province",
+    "optionD": "Central Province",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "category": "Geography",
+    "questionText": "Which district is part of Lusaka Province?",
+    "optionA": "Mpika",
+    "optionB": "Chilanga",
+    "optionC": "Kalomo",
+    "optionD": "Mporokoso",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "category": "Geography",
+    "questionText": "Which of these is one of Lusaka Province's six districts?",
+    "optionA": "Rufunsa",
+    "optionB": "Mungwi",
+    "optionC": "Chadiza",
+    "optionD": "Mwense",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 21,
+    "category": "Geography",
+    "questionText": "Zambia is best described as what kind of country geographically?",
+    "optionA": "Island country",
+    "optionB": "Landlocked country",
+    "optionC": "Peninsula country",
+    "optionD": "Archipelago",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "category": "Geography",
+    "questionText": "Zambia takes its name from which river?",
+    "optionA": "Luangwa River",
+    "optionB": "Kafue River",
+    "optionC": "Zambezi River",
+    "optionD": "Luapula River",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 23,
+    "category": "Geography",
+    "questionText": "Which country lies to the east of Zambia?",
+    "optionA": "Angola",
+    "optionB": "Malawi",
+    "optionC": "Namibia",
+    "optionD": "Botswana",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 24,
+    "category": "Geography",
+    "questionText": "Which country lies to the west of Zambia?",
+    "optionA": "Mozambique",
+    "optionB": "Zimbabwe",
+    "optionC": "Angola",
+    "optionD": "Tanzania",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 25,
+    "category": "Geography",
+    "questionText": "Which country lies to the north-east of Zambia?",
+    "optionA": "Tanzania",
+    "optionB": "Namibia",
+    "optionC": "Botswana",
+    "optionD": "Zimbabwe",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 26,
+    "category": "Geography",
+    "questionText": "Which country lies to the south of Zambia?",
+    "optionA": "Malawi",
+    "optionB": "Zimbabwe",
+    "optionC": "DR Congo",
+    "optionD": "Angola",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 27,
+    "category": "Geography",
+    "questionText": "Which country borders Zambia to the south-east?",
+    "optionA": "Mozambique",
+    "optionB": "Namibia",
+    "optionC": "Botswana",
+    "optionD": "Tanzania",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 28,
+    "category": "Geography",
+    "questionText": "Which pair of countries borders Zambia to the south-west according to Zambia Tourism's geography page?",
+    "optionA": "Angola and DR Congo",
+    "optionB": "Botswana and Namibia",
+    "optionC": "Malawi and Mozambique",
+    "optionD": "Tanzania and Malawi",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 29,
+    "category": "Geography",
+    "questionText": "Which country borders Zambia to both the north and north-west?",
+    "optionA": "DR Congo",
+    "optionB": "Angola",
+    "optionC": "Tanzania",
+    "optionD": "Zimbabwe",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 30,
+    "category": "Geography",
+    "questionText": "Between which latitudes does Zambia lie?",
+    "optionA": "0° and 8° South",
+    "optionB": "10° and 18° South",
+    "optionC": "20° and 28° South",
+    "optionD": "5° North and 5° South",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 31,
+    "category": "Geography",
+    "questionText": "Between which longitudes does Zambia lie?",
+    "optionA": "10°E and 20°E",
+    "optionB": "15°E and 25°E",
+    "optionC": "22°E and 33°E",
+    "optionD": "30°E and 40°E",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 32,
+    "category": "Geography",
+    "questionText": "Which of these is named as one of Zambia's five main rivers in the 2022 Census National Analytical Report?",
+    "optionA": "Chambeshi River",
+    "optionB": "Kafubu River",
+    "optionC": "Kalungwishi River",
+    "optionD": "Lunsemfwa River",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 33,
+    "category": "Geography",
+    "questionText": "Which river forms Zambia's southern boundary in the Zambia Tourism geography profile?",
+    "optionA": "Kafue River",
+    "optionB": "Luangwa River",
+    "optionC": "Zambezi River",
+    "optionD": "Chambeshi River",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 34,
+    "category": "Geography",
+    "questionText": "Which of these is NOT listed among Zambia's five main rivers in the 2022 Census report?",
+    "optionA": "Luapula",
+    "optionB": "Chambeshi",
+    "optionC": "Kalungwishi",
+    "optionD": "Luangwa",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 35,
+    "category": "Geography",
+    "questionText": "Which river is one of Zambia's five main rivers and also gives its name to a province?",
+    "optionA": "Luapula",
+    "optionB": "Chambeshi",
+    "optionC": "Kafue",
+    "optionD": "Luangwa",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 36,
+    "category": "Geography",
+    "questionText": "Which river is described by Britannica as rising near Zambia's border with the Democratic Republic of the Congo?",
+    "optionA": "Zambezi River",
+    "optionB": "Kafue River",
+    "optionC": "Luangwa River",
+    "optionD": "Luapula River",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 37,
+    "category": "Geography",
+    "questionText": "Which river joins the Zambezi near Chirundu after flowing through the Kafue Flats and Kafue Gorge?",
+    "optionA": "Luangwa River",
+    "optionB": "Kafue River",
+    "optionC": "Luapula River",
+    "optionD": "Chambeshi River",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 38,
+    "category": "Geography",
+    "questionText": "Which of these is listed as one of Zambia's major lakes in the 2022 Census report?",
+    "optionA": "Lake Malawi",
+    "optionB": "Lake Mweru Wa Ntipa",
+    "optionC": "Lake Victoria",
+    "optionD": "Lake Albert",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 39,
+    "category": "Geography",
+    "questionText": "Which lake touches Zambia's northern boundary according to Britannica's Zambia summary?",
+    "optionA": "Lake Kariba",
+    "optionB": "Lake Itezhi-Tezhi",
+    "optionC": "Lake Tanganyika",
+    "optionD": "Lake Lukanga",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 40,
+    "category": "Geography",
+    "questionText": "Which of these is one of Zambia's man-made lakes listed in the 2022 Census report?",
+    "optionA": "Lake Bangweulu",
+    "optionB": "Lake Mweru",
+    "optionC": "Lake Kariba",
+    "optionD": "Lake Tanganyika",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 41,
+    "category": "Geography",
+    "questionText": "Which two man-made lakes are named in the 2022 Census National Analytical Report?",
+    "optionA": "Kariba and Itezhi-Tezhi",
+    "optionB": "Tanganyika and Mweru",
+    "optionC": "Bangweulu and Mweru Wa Ntipa",
+    "optionD": "Lukanga and Bangweulu",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 42,
+    "category": "Geography",
+    "questionText": "Which wetland area is associated with Lake Bangweulu in Britannica's Zambia summary?",
+    "optionA": "Kafue Flats",
+    "optionB": "Bangweulu Swamps",
+    "optionC": "Barotse Floodplain",
+    "optionD": "Lukanga Swamp only",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 43,
+    "category": "Geography",
+    "questionText": "Which province is strongly associated with Lake Kariba through Zambia Tourism's destination sections?",
+    "optionA": "Southern Province",
+    "optionB": "Lusaka Province",
+    "optionC": "Muchinga Province",
+    "optionD": "Luapula Province",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 44,
+    "category": "Geography",
+    "questionText": "According to Zambia Tourism, Zambia is one of Africa's most water-rich countries because it has what combination?",
+    "optionA": "Five vast lakes, three major rivers, and at least 17 waterfalls",
+    "optionB": "Two lakes, one river, and three waterfalls",
+    "optionC": "Only one major lake and one river",
+    "optionD": "Many beaches and coral reefs",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 45,
+    "category": "Geography",
+    "questionText": "Which of these is NOT one of the major lakes named in the 2022 Census report?",
+    "optionA": "Lake Tanganyika",
+    "optionB": "Lake Mweru",
+    "optionC": "Lake Bangweulu",
+    "optionD": "Lake Turkana",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 46,
+    "category": "Geography",
+    "questionText": "Which waterfall is also known as Mosi-oa-Tunya?",
+    "optionA": "Kalambo Falls",
+    "optionB": "Victoria Falls",
+    "optionC": "Lumangwe Falls",
+    "optionD": "Ngonye Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 47,
+    "category": "Geography",
+    "questionText": "Victoria Falls is located near which Zambian city?",
+    "optionA": "Mansa",
+    "optionB": "Livingstone",
+    "optionC": "Kasama",
+    "optionD": "Kabwe",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 48,
+    "category": "Geography",
+    "questionText": "Which river carries Victoria Falls?",
+    "optionA": "Kafue River",
+    "optionB": "Luangwa River",
+    "optionC": "Zambezi River",
+    "optionD": "Luapula River",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 49,
+    "category": "Geography",
+    "questionText": "What does Mosi-oa-Tunya mean according to Zambia Travel?",
+    "optionA": "The Great Water",
+    "optionB": "The Smoke that Thunders",
+    "optionC": "The Deep River",
+    "optionD": "The Hidden Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 50,
+    "category": "Geography",
+    "questionText": "According to Zambia Travel, Victoria Falls is almost how wide?",
+    "optionA": "500 metres",
+    "optionB": "1 kilometre",
+    "optionC": "Almost 2 kilometres",
+    "optionD": "About 4 kilometres",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 51,
+    "category": "Geography",
+    "questionText": "According to Zambia Travel, Victoria Falls is about how deep?",
+    "optionA": "38 metres",
+    "optionB": "72 metres",
+    "optionC": "108 metres",
+    "optionD": "210 metres",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 52,
+    "category": "Geography",
+    "questionText": "Which waterfall is listed in Destination Zambia Activities as being near Mbala?",
+    "optionA": "Lumangwe Falls",
+    "optionB": "Kalambo Falls",
+    "optionC": "Ngonye Falls",
+    "optionD": "Kundalila Falls",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 53,
+    "category": "Geography",
+    "questionText": "Which waterfall is listed as being between Kawambwa and Mporokoso?",
+    "optionA": "Chishimba Falls",
+    "optionB": "Kalambo Falls",
+    "optionC": "Lumangwe Falls",
+    "optionD": "Victoria Falls",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 54,
+    "category": "Geography",
+    "questionText": "Which waterfall is listed as being near Kasama?",
+    "optionA": "Chishimba Falls",
+    "optionB": "Ngonye Falls",
+    "optionC": "Lumangwe Falls",
+    "optionD": "Chavuma Falls",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 55,
+    "category": "Geography",
+    "questionText": "Ngonye Falls is described on the Zambezi page as being near which town?",
+    "optionA": "Sioma",
+    "optionB": "Mongu",
+    "optionC": "Senanga",
+    "optionD": "Kaoma",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 56,
+    "category": "Geography",
+    "questionText": "Chavuma Falls is described on Zambia Tourism's Zambezi page as lying at the border between Zambia and which country?",
+    "optionA": "Namibia",
+    "optionB": "Angola",
+    "optionC": "Botswana",
+    "optionD": "Zimbabwe",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 57,
+    "category": "Geography",
+    "questionText": "According to Zambia Tourism, how many other beautiful waterfalls are dotted around the country besides Victoria Falls?",
+    "optionA": "7",
+    "optionB": "10",
+    "optionC": "17",
+    "optionD": "27",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 58,
+    "category": "Geography",
+    "questionText": "Which of these is directly associated with Victoria Falls in Livingstone adventure tourism?",
+    "optionA": "Devil's Pool",
+    "optionB": "Lake Mweru",
+    "optionC": "Kasanka Bat Migration",
+    "optionD": "Lake Tanganyika Ferry",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 59,
+    "category": "Geography",
+    "questionText": "Which gorge is visible during helicopter rides over Victoria Falls according to Zambia Travel?",
+    "optionA": "Kafue Gorge",
+    "optionB": "Batoka Gorge",
+    "optionC": "Luangwa Gorge",
+    "optionD": "Chambeshi Gorge",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "category": "Geography",
+    "questionText": "Which aerodrome do microlight flights to Victoria Falls leave from according to Zambia Travel?",
+    "optionA": "Simon Mwansa Kapwepwe Airport",
+    "optionB": "Kenneth Kaunda International Airport",
+    "optionC": "Maramba Aerodrome",
+    "optionD": "Mfuwe Airport",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 61,
+    "category": "Geography",
+    "questionText": "How many national parks are there in Zambia according to Zambia Tourism's national parks page?",
+    "optionA": "12",
+    "optionB": "16",
+    "optionC": "20",
+    "optionD": "34",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 62,
+    "category": "Geography",
+    "questionText": "How many Game Management Areas are listed on Zambia Tourism's national parks page?",
+    "optionA": "20",
+    "optionB": "24",
+    "optionC": "30",
+    "optionD": "34",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 63,
+    "category": "Geography",
+    "questionText": "Which three parks are highlighted by Zambia Tourism as among the finest national parks in the world?",
+    "optionA": "South Luangwa, Kafue, and Lower Zambezi",
+    "optionB": "Mosi-oa-Tunya, Lusaka, and Kasanka",
+    "optionC": "Liuwa, Sioma, and Lochinvar",
+    "optionD": "Nsumbu, Isangano, and Lavushi Manda",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 64,
+    "category": "Geography",
+    "questionText": "Which national park near the capital opened to the public in June 2015?",
+    "optionA": "Lusaka National Park",
+    "optionB": "Kafue National Park",
+    "optionC": "South Luangwa National Park",
+    "optionD": "Lower Zambezi National Park",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 65,
+    "category": "Geography",
+    "questionText": "According to Zambia Tourism, Lusaka National Park is roughly how far from Zambia's capital city?",
+    "optionA": "10 km",
+    "optionB": "30 km",
+    "optionC": "75 km",
+    "optionD": "120 km",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 66,
+    "category": "Geography",
+    "questionText": "According to Zambia Tourism, Lusaka National Park is Zambia's what-numbered national park?",
+    "optionA": "10th",
+    "optionB": "15th",
+    "optionC": "20th",
+    "optionD": "25th",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 67,
+    "category": "Geography",
+    "questionText": "Which national park in Zambia Travel is described as being situated in Livingstone?",
+    "optionA": "Lusaka National Park",
+    "optionB": "Mosi-Oa-Tunya National Park",
+    "optionC": "Kasanka National Park",
+    "optionD": "North Luangwa National Park",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 68,
+    "category": "Geography",
+    "questionText": "According to Zambia Travel, Mosi-Oa-Tunya National Park covers about how many square kilometres?",
+    "optionA": "24",
+    "optionB": "66",
+    "optionC": "108",
+    "optionD": "156",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 69,
+    "category": "Geography",
+    "questionText": "In what year was Mosi-Oa-Tunya National Park declared a National Park according to Zambia Travel?",
+    "optionA": "1964",
+    "optionB": "1972",
+    "optionC": "1980",
+    "optionD": "1991",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 70,
+    "category": "Geography",
+    "questionText": "Which animal is specifically mentioned by Zambia Travel as being seen in Mosi-Oa-Tunya National Park?",
+    "optionA": "White rhino",
+    "optionB": "Mountain gorilla",
+    "optionC": "Cheetah only",
+    "optionD": "Camel",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 71,
+    "category": "Geography",
+    "questionText": "Which province is Livingstone located in?",
+    "optionA": "Western Province",
+    "optionB": "Southern Province",
+    "optionC": "Central Province",
+    "optionD": "Eastern Province",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 72,
+    "category": "Geography",
+    "questionText": "Which province is Chipata located in?",
+    "optionA": "Eastern Province",
+    "optionB": "Northern Province",
+    "optionC": "Lusaka Province",
+    "optionD": "Luapula Province",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 73,
+    "category": "Geography",
+    "questionText": "Which province is Mansa located in?",
+    "optionA": "Copperbelt Province",
+    "optionB": "Luapula Province",
+    "optionC": "Western Province",
+    "optionD": "Central Province",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 74,
+    "category": "Geography",
+    "questionText": "Which province is Solwezi located in?",
+    "optionA": "Muchinga Province",
+    "optionB": "North-Western Province",
+    "optionC": "Southern Province",
+    "optionD": "Northern Province",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 75,
+    "category": "Geography",
+    "questionText": "Which province is Chinsali located in?",
+    "optionA": "Northern Province",
+    "optionB": "Central Province",
+    "optionC": "Muchinga Province",
+    "optionD": "Eastern Province",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 76,
+    "category": "Geography",
+    "questionText": "Which province is Kasama located in?",
+    "optionA": "Northern Province",
+    "optionB": "Western Province",
+    "optionC": "Lusaka Province",
+    "optionD": "Southern Province",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 77,
+    "category": "Geography",
+    "questionText": "Which province is Mongu located in?",
+    "optionA": "North-Western Province",
+    "optionB": "Western Province",
+    "optionC": "Luapula Province",
+    "optionD": "Southern Province",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 78,
+    "category": "Geography",
+    "questionText": "Which province is Kabwe located in?",
+    "optionA": "Central Province",
+    "optionB": "Copperbelt Province",
+    "optionC": "Lusaka Province",
+    "optionD": "Eastern Province",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 79,
+    "category": "Geography",
+    "questionText": "Which province is Ndola located in?",
+    "optionA": "Central Province",
+    "optionB": "Copperbelt Province",
+    "optionC": "Lusaka Province",
+    "optionD": "Muchinga Province",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 80,
+    "category": "Geography",
+    "questionText": "Which province is Choma located in?",
+    "optionA": "Western Province",
+    "optionB": "Southern Province",
+    "optionC": "Central Province",
+    "optionD": "Luapula Province",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 81,
+    "category": "Geography",
+    "questionText": "Which district is identified on the Lusaka Provincial Administration site as one of Lusaka Province's districts?",
+    "optionA": "Luangwa",
+    "optionB": "Mpulungu",
+    "optionC": "Mungwi",
+    "optionD": "Kazungula",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 82,
+    "category": "Geography",
+    "questionText": "Which district is identified on the Southern Province site as one of its districts?",
+    "optionA": "Kafue",
+    "optionB": "Luwingu",
+    "optionC": "Namwala",
+    "optionD": "Lumezi",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 83,
+    "category": "Geography",
+    "questionText": "Which district is identified on the Eastern Province site as one of its districts?",
+    "optionA": "Chipangali",
+    "optionB": "Shibuyunji",
+    "optionC": "Kazungula",
+    "optionD": "Kalomo",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 84,
+    "category": "Geography",
+    "questionText": "Which district is identified on the Northern Province site as one of its districts?",
+    "optionA": "Lunte",
+    "optionB": "Chilanga",
+    "optionC": "Shang'ombo",
+    "optionD": "Chadiza",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 85,
+    "category": "Geography",
+    "questionText": "Which district is identified on the Muchinga Province site as one of its districts?",
+    "optionA": "Chisamba",
+    "optionB": "Shiwang'andu",
+    "optionC": "Namwala",
+    "optionD": "Mwandi",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 86,
+    "category": "Geography",
+    "questionText": "Which district is explicitly listed as part of Southern Province?",
+    "optionA": "Gwembe",
+    "optionB": "Samfya",
+    "optionC": "Kaputa",
+    "optionD": "Mpongwe",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 87,
+    "category": "Geography",
+    "questionText": "Which district is explicitly listed as part of Eastern Province?",
+    "optionA": "Lundazi",
+    "optionB": "Lufwanyama",
+    "optionC": "Monze",
+    "optionD": "Mporokoso",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 88,
+    "category": "Geography",
+    "questionText": "Which district is explicitly listed as part of Northern Province?",
+    "optionA": "Nsama",
+    "optionB": "Rufunsa",
+    "optionC": "Chikankata",
+    "optionD": "Shibuyunji",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 89,
+    "category": "Geography",
+    "questionText": "Which district is explicitly listed as part of Muchinga Province?",
+    "optionA": "Feira",
+    "optionB": "Nakonde",
+    "optionC": "Sesheke",
+    "optionD": "Mwense",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 90,
+    "category": "Geography",
+    "questionText": "Which district is explicitly listed as part of Lusaka Province?",
+    "optionA": "Chongwe",
+    "optionB": "Mpika",
+    "optionC": "Kalomo",
+    "optionD": "Mporokoso",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 91,
+    "category": "Geography",
+    "questionText": "According to the 2022 Census report, Zambia's vegetation is mainly made up of what?",
+    "optionA": "Rainforest and tundra",
+    "optionB": "Savannah woodlands and grasslands",
+    "optionC": "Mediterranean scrub and mangroves",
+    "optionD": "Desert shrubs and alpine meadows",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 92,
+    "category": "Geography",
+    "questionText": "How many distinct seasons does Zambia have according to the 2022 Census report?",
+    "optionA": "2",
+    "optionB": "3",
+    "optionC": "4",
+    "optionD": "5",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 93,
+    "category": "Geography",
+    "questionText": "Which of these is one of Zambia's three distinct seasons named in the 2022 Census report?",
+    "optionA": "Cool and dry season",
+    "optionB": "Snowy season",
+    "optionC": "Hurricane season",
+    "optionD": "Monsoon winter season",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 94,
+    "category": "Geography",
+    "questionText": "Which of these is another of Zambia's three distinct seasons named in the 2022 Census report?",
+    "optionA": "Cold and snowy season",
+    "optionB": "Hot and dry season",
+    "optionC": "Spring bloom season",
+    "optionD": "Autumn leaf season",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "category": "Geography",
+    "questionText": "Which of these is the third season named in the 2022 Census report?",
+    "optionA": "Hot and wet season",
+    "optionB": "Fog season",
+    "optionC": "Ice season",
+    "optionD": "Harvest snow season",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 96,
+    "category": "Geography",
+    "questionText": "Which town council site notes that Kafue District is the southernmost district of Lusaka Province?",
+    "optionA": "Kafue Town Council",
+    "optionB": "Lusaka City Council",
+    "optionC": "Kabwe Municipal Council",
+    "optionD": "Chipata City Council",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 97,
+    "category": "Geography",
+    "questionText": "Which district is described as the provincial headquarters of Muchinga Province after the province's creation?",
+    "optionA": "Mpika",
+    "optionB": "Chinsali",
+    "optionC": "Nakonde",
+    "optionD": "Isoka",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 98,
+    "category": "Geography",
+    "questionText": "Which city council describes Chipata as the province's capital?",
+    "optionA": "Mansa Municipal Council",
+    "optionB": "Chipata City Council",
+    "optionC": "Lusaka City Council",
+    "optionD": "Kafue Town Council",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 99,
+    "category": "Geography",
+    "questionText": "Which municipal council describes Solwezi as the provincial capital of North-Western Province?",
+    "optionA": "Mongu Municipal Council",
+    "optionB": "Kabwe Municipal Council",
+    "optionC": "Solwezi Municipal Council",
+    "optionD": "Kasama Municipal Council",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 100,
+    "category": "Geography",
+    "questionText": "Which municipal council describes Mansa as the provincial capital of Luapula Province?",
+    "optionA": "Mansa Municipal Council",
+    "optionB": "Chipata City Council",
+    "optionC": "Lusaka City Council",
+    "optionD": "Kabwe Municipal Council",
+    "correctAnswer": "A"
+  }
+]
